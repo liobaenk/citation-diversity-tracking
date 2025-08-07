@@ -6,7 +6,7 @@
 + :eyes: *B R O W S E* &nbsp; : &nbsp; check out datasets extracted from cleanBib, which formed the basis of published citation diversity analyses
   + /**manuscript-results**/...
     + Marshall et al., 2024 (Sci Rep): .../2024_marshall-et-al_distractor/...
-    + Steinfath, Azanova, Kapralov et al. (submitted): .../2025_steinfath-et-al_systematic-hep-review/...
+    + Steinfath, Azanova, Kapralov et al. (submitted): .../2025_steinfath-et-al_hep-review/...
 + :bar_chart: *D O &nbsp; I T &nbsp; Y O U R S E L F* &nbsp; : &nbsp; conduct your own citation diversity analysis and report the results in your manuscript! *You can do so for your empirical papers as well as your systematic reviews*. In the case of reviews, I would suggest to distinguish between (a) the reviewed body of literature and (b) your (the author’s) citation behavior within the main text.
   + How to get you started:
     + (1) /**instr**/D&IC_trackcitingbehav_how-to-use-cleanbib.mp4 # explains how to use gender-api and cleanBib functionality
@@ -17,15 +17,18 @@
     + (6) After .Rmd knitting, the output is automatically saved in /**output**/... [output]
   + Other folders
     + /literature/ # regularly updated :butterfly:
-    + /templates/ # use templates to quick and easy draft a results section for your manuscript <br />(under license CC0 1.0, no copy-right)
+    + /templates/ # use templates to quick-and-easy draft a results section for your manuscript <br />(under license CC0 1.0, no copy-right)
  
 ### Q&A
 
-+ (1) *Why should I track or even report my citation diversity in my manuscript/paper?* <br />Reporting citation diversity helps highlight and reduce bias in who gets cited, making research more fair and inclusive (Dworkin et al., 2020; Fulvio et al., 2021; Hefter et al., 2025). It’s a simple step that aligns with recent statements by publishing houses and journals in support of equity in science (*Springer Nature*: Hoving, 2024; Nature Reviews Bioengineering, 2023 | *Cell Press*: Sweet, 2021, 2022; *Journal of Cognitive Neuroscience*: Fulvio, 2025; Fulvio et al., 2021).
-+ (2) *Why is this folder called citation-diversity, if you only process gender diversity?* #tba
-+ (3) *cleanBib provides me with ethnicity information, why don't you use it (yet)?* #tba
++ (1) *Why should I track or even report my citation diversity in my manuscript/paper?* <br />Reporting citation diversity helps highlight and reduce bias in who gets cited, making research more fair and inclusive (Dworkin et al., 2020; Fulvio et al., 2021; Hefter et al., 2025). It’s a simple step that aligns with recent statements by publishing houses and journals in support of equity in science (*Springer Nature*: Hoving, 2024; Nature Reviews Bioengineering, 2023 | *Cell Press*: Sweet, 2021, 2022; *Journal of Cognitive Neuroscience*: Fulvio, 2025; Fulvio et al., 2021).<br />
+Overall, by doing so, you highlight underrepresented voices in the research you cite. You also support visibility and recognition for colleagues whose names may signal minority backgrounds in your local context. More importantly, it gives *you*, especially if you're early in your career, a way to <ins>actively</ins> promote diversity, equity and inclusion in science.
 
-### Copyright/license
++ (2) *Why is this folder called citation-diversity, if you only process gender diversity?* <br />The folder is called citation-diversity because gender is intended to be just the starting point — the broader aim is to eventually include other dimensions like ethnicity (as in Bertolero et al., 2020, for U.S.A.-based ethnic categories) or even age approximations (see more information in [3]).
+
++ (3) *CleanBib provides me with ethnicity information, why don't you use it (yet)?* <br />While tools like cleanBib offer ethnicity estimates, they rely on U.S.-centric categories ('Asian/Pacific Islander, non-Hispanic Black, non-Hispanic White, Hispanic', Bertolero et al., 2020) that do not apply well in European or international contexts. For now, I’ve chosen not to include them until I can integrate services that reflect more nuanced, multiethnic name patterns (e.g., individuals of Eastern European descent may face discrimination yet are classified as White by cleanBib). This ensures the analysis remains both accurate and locally sensitive.
+
+### Copyright / license
 
 If you use this code, please cite this GitHub folder with the current version (https://github.com/liobaenk/citation-diversity-tracking [e.g., v1.0]) in your manuscript. Additionally, please cite Dworkin et al. (2020) and Zhou et al. (2022), and include a link to the automated Gender-API service (https://gender-api.com).
 
