@@ -1,0 +1,265 @@
+﻿X_checked,X,CitationKey,LastAuthor,Gender,W,A,GendCat,Gender_check,Gender_posthoc,GendCat_posthoc,include,SelfCite_posthoc_notexcluded,SingleAuthor,DOI,Citation,PublicationYear,PublicationMonth,PublicationYear_above_median,Eigenfactor_JCR_2024,Eigenfactor_JCR_PublicationYear,Dworkin_5_member,Hefter_50_member,Eigenfactor_JCR2024_above_lowest_Hefter_Cutoff_0.016,taken_as_above2024cutoff_because_HefterMember,taken_as_above2024cutoff_because_NA
+130,129,yuan_effect_2007,"Qing,Yan","female,58","0    0.008743
+Name: nh_white, dtype: float32",0.99125695,femalefemale,yes,u,uu,0,N,0,10.1007/s12264-007-0053-7,Neurosci Bull. 2007 Nov;23(6):357-62. doi: 10.1007/s12264-007-0053-7.,2007,,N,0.00706,NA,excluded,excluded,excluded,,
+14,13,zhou_interoception_2022,"Qing,Lu","female,58","0    0.008875
+Name: nh_white, dtype: float32",0.99112463,malefemale,yes,u,mu,0,N,0,10.3389/fpsyt.2022.874859,Front Psychiatry. 2022 Apr 11;13:874859. doi: 10.3389/fpsyt.2022.874859. eCollection 2022.,2022,,Y,0.08399,0.06114,excluded,excluded,excluded,,
+8,7,couto_heart_2015,"Agustin,Ibanez","male,97","0    0.045069
+Name: nh_white, dtype: float32",0.95493066,malemale,no,m,mm,1,N,0,10.1016/j.autneu.2015.06.006,Auton Neurosci. 2015 Dec;193:132-7. doi: 10.1016/j.autneu.2015.06.006. Epub 2015 Jul 3.,2015,,N,0.0024,0.0043,N,N,N,,
+24,23,couto_man_2014,"Agustin,Ibanez","male,97","0    0.045069
+Name: nh_white, dtype: float32",0.95493066,malemale,no,m,mm,1,N,0,10.1093/scan/nst108,Soc Cogn Affect Neurosci. 2014 Sep;9(9):1253-60. doi: 10.1093/scan/nst108. Epub 2013 Jul 24.,2014,,N,0.00655,0.01563,N,N,N,,
+46,45,schulz_distinctive_2020,"Claus,Vgele","male,96","0    0.65997
+Name: nh_white, dtype: float32",0.34002978,malemale,no,m,mm,1,N,0,10.1016/j.jpsychores.2020.110223,J Psychosom Res. 2020 Aug 22;137:110223. doi: 10.1016/j.jpsychores.2020.110223. Online ahead of print.,2020,8,N,0.00896,0.00989,N,N,N,,
+152,151,lutz_enhanced_2019,"Claus,Vgele","male,96","0    0.65997
+Name: nh_white, dtype: float32",0.34002978,femalemale,no,m,fm,1,N,0,10.1016/j.clinph.2019.06.009,Clin Neurophysiol. 2019 Sep;130(9):1620-1627. doi: 10.1016/j.clinph.2019.06.009. Epub 2019 Jul 2.,2019,,N,0.0131,0.02029,N,N,N,,
+2,1,judah_relationship_2018,"DeMond,Grant","male,98","0    0.095597
+Name: nh_white, dtype: float32",0.90440327,malemale,no,m,mm,1,N,0,10.1016/j.biopsycho.2018.09.013,Biol Psychol. 2018 Nov;139:1-7. doi: 10.1016/j.biopsycho.2018.09.013. Epub 2018 Oct 2.,2018,,N,0.0055,0.01259,N,N,N,,
+148,147,villenagonzalez_attending_2017,"Diego,Cosmelli","male,99","0    0.407438
+Name: nh_white, dtype: float32",0.5925623,malemale,no,m,mm,1,N,0,10.1111/psyp.12894,Psychophysiology. 2017 Oct;54(10):1483-1497. doi: 10.1111/psyp.12894. Epub 2017 May 31.,2017,,N,0.01024,0.01233,N,N,N,,
+26,25,schulz_shortterm_2015,"Hartmut,Schchinger","male,99","0    0.960625
+Name: nh_white, dtype: float32",0.03937529,malemale,no,m,mm,1,N,0,10.1111/psyp.12388,Psychophysiology. 2015 May;52(5):695-703. doi: 10.1111/psyp.12388. Epub 2014 Nov 28.,2015,,N,0.01024,0.01359,N,N,N,,
+116,115,baranauskas_brain_2017,"Inga,Grikova-Bulanova","female,97","0    0.874971
+Name: nh_white, dtype: float32",0.12502855,malefemale,no,f,mf,1,N,0,10.1016/j.physbeh.2017.07.032,Physiol Behav. 2017 Oct 15;180:1-7. doi: 10.1016/j.physbeh.2017.07.032. Epub 2017 Aug 1.,2017,,N,0.00946,0.02173,N,N,N,,
+32,31,perez_suppression_2005,"Juan,Barcia","male,98","0    0.04781
+Name: nh_white, dtype: float32",0.9521903,malemale,no,m,mm,1,N,0,10.1007/BF02351030,Med Biol Eng Comput.,2005,,N,0.00488,NA,N,N,N,,
+40,39,schulz_altered_2015,"Matthias,Michal","male,100","0    0.435951
+Name: nh_white, dtype: float32",0.5640492,malemale,no,m,mm,1,N,0,10.1097/PSY.0000000000000195,Psychosom Med. 2015 Jun;77(5):506-16. doi: 10.1097/PSY.0000000000000195.,2015,,N,0.00412,0.01274,N,N,N,,
+38,37,mackinnon_utilizing_2013,"Milton,Brown","male,99","0    0.521707
+Name: nh_white, dtype: float32",0.47829324,femalemale,no,m,fm,1,N,0,10.1007/s10484-013-9226-5,Appl Psychophysiol Biofeedback. 2013 Dec;38(4):241-55. doi: 10.1007/s10484-013-9226-5.,2013,,N,0.00105,0.00118,N,N,N,,
+232,231,mai_interoception_2018,"Olga,Pollatos","female,98","0    0.189783
+Name: nh_white, dtype: float32",0.8102165,femalefemale,no,f,ff,1,N,0,10.1016/j.biopsycho.2018.06.007,Biol Psychol. 2018 Sep;137:24-33. doi: 10.1016/j.biopsycho.2018.06.007. Epub 2018 Jun 23.,2018,,N,0.0055,0.01259,N,N,N,,
+260,259,schandry_event-related_1996,"Pedro,Montoya","male,99","0    0.085936
+Name: nh_white, dtype: float32",0.91406417,malemale,no,m,mm,1,N,0,10.1016/0301-0511(95)05147-3,Biol Psychol. 1996 Jan 5;42(1-2):75-85. doi: 10.1016/0301-0511(95)05147-3.,1996,,N,0.0055,NA,N,N,N,,
+126,125,pollatos_accuracy_2004,"Rainer,Schandry","male,99","0    0.947394
+Name: nh_white, dtype: float32",0.052605864,femalemale,no,m,fm,1,N,0,10.1111/1469-8986.2004.00170.x,Psychophysiology. 2004 May;41(3):476-82. doi: 10.1111/1469-8986.2004.00170.x.,2004,,N,0.01024,NA,N,N,N,,
+30,29,leopold_heartbeat-evoked_2001,"Rainer,Schandry","male,99","0    0.947394
+Name: nh_white, dtype: float32",0.052605864,malemale,no,m,mm,1,N,0,10.1016/s1388-2457(01)00480-1,Clin Neurophysiol. 2001 Apr;112(4):674-82. doi: 10.1016/s1388-2457(01)00480-1.,2001,,N,0.0131,NA,N,N,N,,
+122,121,schandry_heart_1986,"Rolf,Weitkunat","male,99","0    0.937179
+Name: nh_white, dtype: float32",0.06282053,malemale,no,m,mm,1,N,0,10.3109/00207458608985677,Int J Neurosci. 1986 Nov;30(4):261-75. doi: 10.3109/00207458608985677.,1986,,N,0.00329,NA,N,N,N,,
+224,223,katkin_individual_1991,"Rolf,Weitkunat","male,99","0    0.937179
+Name: nh_white, dtype: float32",0.06282053,malemale,no,m,mm,1,N,0,10.3109/00207459108990745,Int J Neurosci. 1991 Dec;61(3-4):269-76. doi: 10.3109/00207459108990745.,1991,,N,0.00329,NA,N,N,N,,
+258,257,schandry_enhancement_1990,"Rolf,Weitkunat","male,99","0    0.937179
+Name: nh_white, dtype: float32",0.06282053,malemale,no,m,mm,1,N,0,10.3109/00207459008986611,Int J Neurosci. 1990 Aug;53(2-4):243-53. doi: 10.3109/00207459008986611.,1990,,N,0.00329,NA,N,N,N,,
+212,211,fukushima_association_2011,"Satoshi,Umeda","male,99","0    0.146988
+Name: nh_white, dtype: float32",0.8530118,unknownmale,no,m,mm,1,N,0,10.1016/j.ijpsycho.2010.10.015,Int J Psychophysiol. 2011 Feb;79(2):259-65. doi: 10.1016/j.ijpsycho.2010.10.015. Epub 2010 Nov 3.,2011,,N,0.00522,0.01068,N,N,N,,
+100,99,ito_affective_2019,"Satoshi,Umeda","male,99","0    0.146988
+Name: nh_white, dtype: float32",0.8530118,malemale,no,m,mm,1,N,0,10.1016/j.brainres.2019.05.041,Brain Res. 2019 Sep 15;1719:148-156. doi: 10.1016/j.brainres.2019.05.041. Epub 2019 May 30.,2019,,N,0.01072,0.02757,N,N,N,,
+98,97,marshall_cardiac_2018,"Simone,Schtz-Bosbach","male,66","0    0.953822
+Name: nh_white, dtype: float32",0.04617838,femalemale,yes,f,ff,1,N,0,10.1093/scan/nsy042,Soc Cogn Affect Neurosci. 2018 Sep 4;13(7):677-686. doi: 10.1093/scan/nsy042.,2018,,N,0.00655,0.0209,N,N,N,,
+134,133,terhaar_heartbeat_2012,"Stefan,Debener","male,98","0    0.952282
+Name: nh_white, dtype: float32",0.047717724,femalemale,no,m,fm,1,N,0,10.1016/j.clinph.2012.02.086,Clin Neurophysiol. 2012 Oct;123(10):1950-7. doi: 10.1016/j.clinph.2012.02.086. Epub 2012 Apr 25.,2012,,N,0.0131,0.02792,N,N,N,,
+138,137,lechinger_heartbeatrelated_2015,"Wolfgang,Klimesch","male,99","0    0.846087
+Name: nh_white, dtype: float32",0.15391265,femalemale,no,m,fm,1,N,0,10.1111/psyp.12508,Psychophysiology. 2015 Nov;52(11):1441-50. doi: 10.1111/psyp.12508. Epub 2015 Aug 13.,2015,,N,0.01024,0.01359,N,N,N,,
+132,131,shao_effect_2011,"Xiaoping,Li","male,60","0    0.052643
+Name: nh_white, dtype: float32",0.9473568,femalemale,yes,m,fm,1,N,0,10.1016/j.clinph.2011.02.014,Clin Neurophysiol. 2011 Sep;122(9):1838-45. doi: 10.1016/j.clinph.2011.02.014. Epub 2011 Mar 10.,2011,,N,0.0131,0.02908,N,N,N,,
+256,255,legaz_heart-brain_2022,"Agustin,Ibaez","male,97","0    0.036022
+Name: nh_white, dtype: float32",0.9639776,femalemale,no,m,fm,1,N,0,10.1111/ejn.14979,Eur J Neurosci. 2022 May;55(9-10):2836-2850. doi: 10.1111/ejn.14979. Epub 2020 Dec 17.,2022,,Y,0.01367,0.01513,N,N,N,,
+12,11,richter_time_2021,"Agustin,Ibez","male,97","0    0.047179
+Name: nh_white, dtype: float32",0.952821,malemale,no,m,mm,1,N,0,10.1016/j.biopsycho.2021.108017,Biol Psychol. 2021 Feb;159:108017. doi: 10.1016/j.biopsycho.2021.108017. Epub 2021 Jan 12.,2021,,Y,0.0055,0.00787,N,N,N,,
+4,3,liuzzi_neurophysiological_2024,"Andrea,Mannini","female,54","0    0.944894
+Name: nh_white, dtype: float32",0.055105977,malefemale,yes,m,mm,1,N,0,10.1111/ejn.16394,Eur J Neurosci. 2024 May 26. doi: 10.1111/ejn.16394. Online ahead of print.,2024,,Y,0.01367,0.01367,N,N,N,,
+18,17,weijs_cardiac_2023,"Bigna,Lenggenhager","female,63","0    0.946277
+Name: nh_white, dtype: float32",0.053722933,femalefemale,yes,f,ff,1,N,0,10.1111/psyp.14386,Psychophysiology. 2023 Dec;60(12):e14386. doi: 10.1111/psyp.14386. Epub 2023 Jul 8.,2023,,Y,0.01024,0.01017,N,N,N,,
+182,181,candia-rivera_reduced_2023,"Calixto,Machado","male,97","0    0.150113
+Name: nh_white, dtype: float32",0.84988755,malemale,no,m,mm,1,N,0,10.3988/jcn.2022.0415,J Clin Neurol. 2023 Nov;19(6):581-588. doi: 10.3988/jcn.2022.0415. Epub 2023 Jun 1.,2023,,Y,0.00211,0.00202,N,N,N,,
+180,179,candiarivera_multidimensional_2023,"Calixto,Machado","male,97","0    0.150113
+Name: nh_white, dtype: float32",0.84988755,malemale,no,m,mm,1,N,0,10.1111/ejn.16079,Eur J Neurosci. 2023 Aug;58(4):3098-3110. doi: 10.1111/ejn.16079. Epub 2023 Jun 29.,2023,,Y,0.01367,0.01541,N,N,N,,
+208,207,buot_does_2021,"Catherine,Tallon-Baudry","female,98","0    0.523927
+Name: nh_white, dtype: float32",0.4760729,femalefemale,no,f,ff,1,N,0,10.1016/j.biopsycho.2021.108165,Biol Psychol. 2021 Oct;165:108165. doi: 10.1016/j.biopsycho.2021.108165. Epub 2021 Aug 17.,2021,,Y,0.0055,0.00787,N,N,N,,
+190,189,cambi_cardiac_2024,"Cristina,Berchio","female,98","0    0.284246
+Name: nh_white, dtype: float32",0.7157542,femalefemale,no,f,ff,1,N,0,10.1002/erv.3049,Eur Eat Disord Rev. 2024 May;32(3):417-430. doi: 10.1002/erv.3049. Epub 2023 Nov 27.,2024,,Y,0.00379,0.00379,N,N,N,,
+178,177,callara_modulation_2023,"Enrica,Santarcangelo","female,98","0    0.341755
+Name: nh_white, dtype: float32",0.6582447,malefemale,no,f,mf,1,N,0,10.1111/psyp.14309,Psychophysiology. 2023 Sep;60(9):e14309. doi: 10.1111/psyp.14309. Epub 2023 Apr 18.,2023,,Y,0.01024,0.01017,N,N,N,,
+194,193,giusti_interoception_2024,"Enrica,Santarcangelo","female,98","0    0.341755
+Name: nh_white, dtype: float32",0.6582447,femalefemale,no,f,ff,1,N,0,10.1111/psyp.14535,Psychophysiology. 2024 Jun;61(6):e14535. doi: 10.1111/psyp.14535. Epub 2024 Feb 6.,2024,,Y,0.01024,0.01024,N,N,N,,
+172,171,verdonk_heartbeat_2021,"Francois,Vialatte","male,98","0    0.682592
+Name: nh_white, dtype: float32",0.31740767,malemale,no,m,mm,1,N,0,10.1111/psyp.13891,Psychophysiology. 2021 Oct;58(10):e13891. doi: 10.1111/psyp.13891. Epub 2021 Jul 5.,2021,,Y,0.01024,0.01133,N,N,N,,
+106,105,candia-rivera_role_2021,"Gaetano,Valenza","male,99","0    0.435646
+Name: nh_white, dtype: float32",0.56435394,malemale,no,m,mm,1,N,0,10.1016/j.jneumeth.2021.109269,J Neurosci Methods. 2021 Aug 1;360:109269. doi: 10.1016/j.jneumeth.2021.109269. Epub 2021 Jun 24.,2021,,Y,0.0078,0.01175,N,N,N,,
+104,103,kamp_older_2021,"Gregor,Domes","male,99","0    0.730093
+Name: nh_white, dtype: float32",0.26990652,femalemale,no,m,fm,1,N,0,10.1016/j.brainres.2020.147238,Brain Res. 2021 Feb 1;1752:147238. doi: 10.1016/j.brainres.2020.147238. Epub 2021 Jan 3.,2021,,Y,0.01072,0.01786,N,N,N,,
+188,187,alkhachroum_resting-state_2024,"Jacobo,Sitt","male,99","0    0.47405
+Name: nh_white, dtype: float32",0.52594966,malemale,no,m,mm,1,N,0,10.1007/s12028-024-02005-2,Neurocrit Care. 2024 May 29. doi: 10.1007/s12028-024-02005-2. Online ahead of print.,2024,,Y,0.00872,0.00872,N,N,N,,
+168,167,schmitz_heartbeat_2021,"Katja,Bertsch","female,98","0    0.983693
+Name: nh_white, dtype: float32",0.016306607,malefemale,no,f,mf,1,N,0,10.1080/20008198.2021.1987686,Eur J Psychotraumatol. 2021 Nov 17;12(1):1987686. doi: 10.1080/20008198.2021.1987686. eCollection 2021.,2021,,Y,0.00905,0.00659,N,N,N,,
+52,51,hodossy_how_2021,"Manos,Tsakiris","male,98","0    0.709309
+Name: nh_white, dtype: float32",0.29069147,femalemale,no,m,fm,1,N,0,10.1016/j.biopsycho.2021.108198,Biol Psychol. 2021 Oct;165:108198. doi: 10.1016/j.biopsycho.2021.108198. Epub 2021 Oct 6.,2021,,Y,0.0055,0.00787,N,N,N,,
+254,253,zwienenberg_heartbeat-evoked_2023,"Martijn,Arns","male,99","0    0.600837
+Name: nh_white, dtype: float32",0.3991627,femalemale,no,m,fm,1,N,0,10.1159/000529308,Neuropsychobiology. 2023;82(3):158-167. doi: 10.1159/000529308. Epub 2023 Mar 16.,2023,,Y,0.00148,0.00142,N,N,N,,
+156,155,flasbeck_altered_2020,"Martin,Brne","male,98","0    0.917354
+Name: nh_white, dtype: float32",0.082645655,femalemale,no,m,fm,1,N,0,10.1186/s40479-020-00139-1,Borderline Personal Disord Emot Dysregul. 2020 Oct 22;7:24. doi: 10.1186/s40479-020-00139-1. eCollection 2020.,2020,10,Y,0.00134,0.00115,N,N,N,,
+234,233,majeed_modulation_2022,"Muhammad,Qureshi","male,99","0    0.310474
+Name: nh_white, dtype: float32",0.6895264,malemale,no,m,mm,1,N,0,10.1007/s10943-021-01431-2,J Relig Health. 2022 Oct;61(5):3852-3865. doi: 10.1007/s10943-021-01431-2. Epub 2021 Sep 23.,2022,,Y,0.00586,0.00573,N,N,N,,
+88,87,rapp_elevated_2023,"Olga,Pollatos","female,98","0    0.189783
+Name: nh_white, dtype: float32",0.8102165,malefemale,no,f,mf,1,N,0,10.1016/j.biopsycho.2023.108698,Biol Psychol. 2023 Nov;184:108698. doi: 10.1016/j.biopsycho.2023.108698. Epub 2023 Sep 28.,2023,,Y,0.0055,0.00584,N,N,N,,
+62,61,yoris_delving_2024,"Pandelis,Perakakis","male,98","0    0.89927
+Name: nh_white, dtype: float32",0.1007304,malemale,no,m,mm,1,N,0,10.1016/j.neuropsychologia.2024.108867,Neuropsychologia. 2024 Jun 6;198:108867. doi: 10.1016/j.neuropsychologia.2024.108867. Epub 2024 Mar 20.,2024,,Y,0.01026,0.01026,N,N,N,,
+218,217,hermann_aberrant_2024,"Sarah,Benghanem","female,98","0    0.912732
+Name: nh_white, dtype: float32",0.08726826,malefemale,no,f,mf,1,N,0,10.1002/acn3.52000,Ann Clin Transl Neurol. 2024 Apr;11(4):866-882. doi: 10.1002/acn3.52000. Epub 2024 Jan 19.,2024,,Y,0.01419,0.01419,N,N,N,,
+186,185,tanaka_modulation_2023,"Satoshi,Umeda","male,99","0    0.146988
+Name: nh_white, dtype: float32",0.8530118,malemale,no,m,mm,1,N,0,10.1016/j.biopsycho.2023.108637,Biol Psychol. 2023 Sep;182:108637. doi: 10.1016/j.biopsycho.2023.108637. Epub 2023 Jul 23.,2023,,Y,0.0055,0.00584,N,N,N,,
+252,251,zhou_intranasal_2024,"Shuxia,Yao","female,100","0    0.175646
+Name: nh_white, dtype: float32",0.824354,femalefemale,no,f,ff,1,N,0,10.1016/j.bpsc.2024.05.004,Biol Psychiatry Cogn Neurosci Neuroimaging. 2024 Jun 3:S2451-9022(24)00137-X. doi: 10.1016/j.bpsc.2024.05.004. Online ahead of print.,2024,,Y,0.00873,0.00873,N,N,N,,
+112,111,ren_response_2022,"Simone,Schtz-Bosbach","male,66","0    0.953822
+Name: nh_white, dtype: float32",0.04617838,femalemale,yes,f,ff,1,N,0,10.1016/j.biopsycho.2022.108323,Biol Psychol. 2022 Apr;170:108323. doi: 10.1016/j.biopsycho.2022.108323. Epub 2022 Mar 25.,2022,,Y,0.0055,0.00616,N,N,N,,
+36,35,marshall_interoceptive_2020,"Simone,Schtz-Bosbach","male,66","0    0.953822
+Name: nh_white, dtype: float32",0.04617838,femalemale,yes,f,ff,1,N,0,10.1037/emo0000631,Emotion. 2020 Oct;20(7):1113-1126. doi: 10.1037/emo0000631. Epub 2019 Jul 1.,2020,10,Y,0.01113,0.01058,N,N,N,,
+192,191,flasbeck_heartbeat_2024,"Stoyan,Popkirov","male,99","0    0.973473
+Name: nh_white, dtype: float32",0.026527297,femalemale,no,m,fm,1,N,0,10.1136/bmjno-2024-000665,BMJ Neurol Open. 2024 Jun 5;6(1):e000665. doi: 10.1136/bmjno-2024-000665. eCollection 2024.,2024,,Y,0.0011,0.0011,N,N,N,,
+80,79,villenagonzalez_autonomous_2023,"Vladimir,Lpez","male,99","0    0.137081
+Name: nh_white, dtype: float32",0.8629191,malemale,no,m,mm,1,N,0,10.1111/psyp.14277,Psychophysiology. 2023 Jun;60(6):e14277. doi: 10.1111/psyp.14277. Epub 2023 Feb 25.,2023,,Y,0.01024,0.01017,N,N,N,,
+228,227,koreki_aberrant_2024,"Yoshihiro,Noda","male,100","0    0.079518
+Name: nh_white, dtype: float32",0.92048156,malemale,no,m,mm,1,N,0,10.1016/j.pnpbp.2024.110969,Prog Neuropsychopharmacol Biol Psychiatry. 2024 Jun 8;132:110969. doi: 10.1016/j.pnpbp.2024.110969. Epub 2024 Feb 16.,2024,,Y,0.01193,0.01193,N,N,N,,
+92,91,schulz_cortisol_2013,"Hartmut,Schchinger","male,99","0    0.960625
+Name: nh_white, dtype: float32",0.03937529,malemale,no,m,mm,1,N,0,10.1016/j.psyneuen.2013.06.027,Psychoneuroendocrinology. 2013 Nov;38(11):2686-93. doi: 10.1016/j.psyneuen.2013.06.027. Epub 2013 Jul 11.,2013,,N,0.0133,0.02392,N,Y,N,Y,
+222,221,kamp_reduced_2023,"Andre,Schulz","male,97","0    0.937236
+Name: nh_white, dtype: float32",0.06276406,femalemale,no,m,fm,1,N,0,10.1016/j.neulet.2023.137466,Neurosci Lett. 2023 Sep 25;814:137466. doi: 10.1016/j.neulet.2023.137466. Epub 2023 Aug 29.,2023,,Y,0.01517,0.01674,N,Y,N,Y,
+170,169,todd_weaker_2021,"Jane,Aspell","female,97","0    0.982678
+Name: nh_white, dtype: float32",0.017322462,femalefemale,no,f,ff,1,N,0,10.1016/j.cortex.2021.07.006,Cortex. 2021 Oct;143:254-266. doi: 10.1016/j.cortex.2021.07.006. Epub 2021 Sep 2.,2021,,Y,0.01341,0.01887,N,Y,N,Y,
+124,123,montoya_heartbeat_1993,"Achim,Mller","male,99","0    0.80453
+Name: nh_white, dtype: float32",0.19547012,malemale,no,m,mm,1,N,0,10.1016/0168-5597(93)90001-6,Electroencephalogr Clin Neurophysiol. 1993 May-Jun;88(3):163-72. doi: 10.1016/0168-5597(93)90001-6.,1993,,N,NA,NA,N,N,NA,,Y
+214,213,garcia-cordero_feeling_nodate,"Agustin,Ibanez","male,97","0    0.045069
+Name: nh_white, dtype: float32",0.95493066,femalemale,no,m,fm,1,N,0,10.1098/rstb.2016.0006,Philos Trans R Soc Lond B Biol Sci. 2016 Nov 19;371(1708):20160006. doi: 10.1098/rstb.2016.0006. Epub 2016 Oct 10.,2016,,N,0.0357,0.06947,N,N,Y,,
+48,47,salamone_dynamic_2020,"Agustin,Ibez","male,97","0    0.047179
+Name: nh_white, dtype: float32",0.952821,femalemale,no,m,fm,1,N,0,10.1093/braincomms/fcaa095,Brain Commun. 2020 Jul 8;2(2):fcaa095. doi: 10.1093/braincomms/fcaa095. eCollection 2020.,2020,7,N,0.01625,0.00037,N,N,Y,,
+120,119,al_heartbrain_2020,"Arno,Villringer","male,99","0    0.838583
+Name: nh_white, dtype: float32",0.16141747,femalemale,no,m,fm,1,Y,0,10.1073/pnas.1915629117,Proc Natl Acad Sci U S A. 2020 May 12;117(19):10575-10584. doi: 10.1073/pnas.1915629117. Epub 2020 Apr 27.,2020,5,N,0.55386,0.80592,N,N,Y,,
+72,71,kim_sad_2019,"Bumseok,Jeong","male,100","0    0.026881
+Name: nh_white, dtype: float32",0.973119,malemale,no,m,mm,1,N,0,10.1038/s41598-018-36498-7,Sci Rep. 2019 Jan 23;9(1):430. doi: 10.1038/s41598-018-36498-7.,2019,,N,0.88141,1.23128,N,N,Y,,
+28,27,babo-rebelo_is_2016,"Catherine,Tallon-Baudry","female,98","0    0.523927
+Name: nh_white, dtype: float32",0.4760729,femalefemale,no,f,ff,1,N,0,10.1098/rstb.2016.0004,Philos Trans R Soc Lond B Biol Sci. 2016 Nov 19;371(1708):20160004. doi: 10.1098/rstb.2016.0004. Epub 2016 Oct 10.,2016,,N,0.0357,0.06947,N,N,Y,,
+118,117,pang_altered_2019,"Chunbo,Li","male,77","0    0.059632
+Name: nh_white, dtype: float32",0.9403683,femalemale,yes,m,fm,1,N,0,10.3389/fpsyt.2019.00616,Front Psychiatry. 2019 Sep 5;10:616. doi: 10.3389/fpsyt.2019.00616. eCollection 2019.,2019,,N,0.08399,0.01744,N,N,Y,,
+204,203,banellis_skipping_2020,"Damian,Cruse","male,99","0    0.180988
+Name: nh_white, dtype: float32",0.81901234,femalemale,no,m,fm,1,N,0,10.1093/texcom/tgaa060,Cereb Cortex Commun. 2020 Sep 1;1(1):tgaa060. doi: 10.1093/texcom/tgaa060. eCollection 2020.,2020,9,N,NA,NA,N,N,NA,,Y
+34,33,dirlich_cardiac_1997,"Friedrich,Strian","male,98","0    0.746996
+Name: nh_white, dtype: float32",0.2530036,malemale,no,m,mm,1,N,0,10.1016/s0013-4694(96)96506-2,Electroencephalogr Clin Neurophysiol. 1997 Apr;102(4):307-15. doi: 10.1016/s0013-4694(96)96506-2.,1997,,N,NA,NA,N,N,NA,,Y
+264,263,dirlich_topography_1998,"Friedrich,Strian","male,98","0    0.746996
+Name: nh_white, dtype: float32",0.2530036,malemale,no,m,mm,1,N,0,10.1016/S0168-5597(98)00003-3,Electroencephalography and Clinical Neurophysiology,1998,,N,NA,NA,N,N,NA,,Y
+128,127,gray_cortical_2007,"Hugo,Critchley","male,99","0    0.607131
+Name: nh_white, dtype: float32",0.3928691,malemale,no,m,mm,1,N,0,10.1073/pnas.0609509104,Proc Natl Acad Sci U S A. 2007 Apr 17;104(16):6818-23. doi: 10.1073/pnas.0609509104. Epub 2007 Apr 9.,2007,,N,0.55386,1.74485,N,N,Y,,
+94,93,di_bernardi_luft_aroused_2015,"Joydeep,Bhattacharya","male,100","0    0.315553
+Name: nh_white, dtype: float32",0.68444693,femalemale,no,m,fm,1,N,0,10.1038/srep15717,Sci Rep. 2015 Oct 27;5:15717. doi: 10.1038/srep15717.,2015,,N,0.88141,0.20894,N,N,Y,,
+140,139,muller_cortical_2015,"Katja,Bertsch","female,98","0    0.983693
+Name: nh_white, dtype: float32",0.016306607,femalefemale,no,f,ff,1,N,0,10.1001/jamapsychiatry.2015.1252,JAMA Psychiatry. 2015 Nov;72(11):1077-86. doi: 10.1001/jamapsychiatry.2015.1252.,2015,,N,0.03979,0.02158,N,N,Y,,
+158,157,schmitz_heart_2020,"Katja,Bertsch","female,98","0    0.983693
+Name: nh_white, dtype: float32",0.016306607,malefemale,no,f,mf,1,N,0,10.1016/j.jad.2019.11.139,J Affect Disord. 2020 Mar 1;264:24-28. doi: 10.1016/j.jad.2019.11.139. Epub 2019 Nov 30.,2020,3,N,0.07963,0.06269,N,N,Y,,
+150,149,yoris_inner_2017,"Lucas,Sedeo","male,99","0    0.354169
+Name: nh_white, dtype: float32",0.6458315,malemale,no,m,mm,1,N,0,10.1017/S0033291717000368,Psychol Med. 2017 Aug;47(11):1957-1970. doi: 10.1017/S0033291717000368. Epub 2017 Apr 4.,2017,,N,0.0376,0.03939,N,N,Y,,
+44,43,maister_neurobehavioral_2017,"Manos,Tsakiris","male,98","0    0.709309
+Name: nh_white, dtype: float32",0.29069147,femalemale,no,m,fm,1,N,0,10.7554/eLife.25318,Elife. 2017 Aug 8;6:e25318. doi: 10.7554/eLife.25318.,2017,,N,NA,NA,N,N,NA,,Y
+226,225,kato_alterations_2020,"Masato,Fukuda","male,99","0    0.506345
+Name: nh_white, dtype: float32",0.49365544,malemale,no,m,mm,1,N,0,10.3389/fpsyt.2020.00683,Front Psychiatry. 2020 Jul 22;11:683. doi: 10.3389/fpsyt.2020.00683. eCollection 2020.,2020,7,N,0.08399,0.0271,N,N,Y,,
+68,67,immanuel_heartbeat_2014,"Mathias,Baumert","male,99","0    0.877595
+Name: nh_white, dtype: float32",0.12240468,femalemale,no,m,fm,1,N,0,10.1164/rccm.201405-0920OC,Am J Respir Crit Care Med. 2014 Nov 15;190(10):1149-57. doi: 10.1164/rccm.201405-0920OC.,2014,,N,0.05672,0.09842,N,N,Y,,
+220,219,mccraty_electrophysiological_2004,"Raymond,Bradley","male,99","0    0.899453
+Name: nh_white, dtype: float32",0.10054679,malemale,no,m,mm,1,N,0,10.1089/107555304323062310,J Altern Complement Med. 2004 Apr;10(2):325-36. doi: 10.1089/107555304323062310.,2004,,N,NA,NA,N,N,NA,,Y
+146,145,marshall_exteroceptive_2017,"Simone,Schtz-Bosbach","male,66","0    0.953822
+Name: nh_white, dtype: float32",0.04617838,femalemale,yes,f,ff,1,N,0,10.1038/s41598-017-16595-9,Sci Rep. 2017 Nov 28;7(1):16525. doi: 10.1038/s41598-017-16595-9.,2017,,N,0.88141,0.71853,N,N,Y,,
+154,153,perogamvros_increased_2019,"Sophie,Schwartz","female,98","0    0.984825
+Name: nh_white, dtype: float32",0.015174931,malefemale,no,f,mf,1,N,0,10.1016/j.nicl.2019.101701,Neuroimage Clin. 2019;22:101701. doi: 10.1016/j.nicl.2019.101701. Epub 2019 Jan 29.,2019,,N,0.0227,0.0271,N,N,Y,,
+42,41,pollatos_changes_2016,"Thomas,Kammer","male,99","0    0.992419
+Name: nh_white, dtype: float32",0.007580692,femalemale,no,m,fm,1,N,0,10.1098/rstb.2016.0016,Philos Trans R Soc Lond B Biol Sci. 2016 Nov 19;371(1708):20160016. doi: 10.1098/rstb.2016.0016. Epub 2016 Oct 10.,2016,,N,0.0357,0.06947,N,N,Y,,
+242,241,schulz_late_2018,"Yvan,Devaux","male,98","0    0.648416
+Name: nh_white, dtype: float32",0.3515841,malemale,no,m,mm,1,N,0,10.1016/j.resuscitation.2018.02.009,Resuscitation. 2018 May;126:7-13. doi: 10.1016/j.resuscitation.2018.02.009. Epub 2018 Feb 12.,2018,,N,0.01732,0.0286,N,N,Y,,
+86,85,fouragnan_timing_2024,"Alejandra,Sel","female,98","0    0.079709
+Name: nh_white, dtype: float32",0.92029047,femalefemale,no,f,ff,1,N,0,10.1038/s41467-024-46921-5,Nat Commun. 2024 Apr 6;15(1):2976,2024,,Y,1.49791,1.49791,N,N,Y,,
+174,173,kumral_attenuation_2022,"Arno,Villringer","male,99","0    0.838583
+Name: nh_white, dtype: float32",0.16141747,malemale,no,m,fm,1,Y,0,10.1016/j.jacep.2022.06.019,JACC Clin Electrophysiol. 2022 Oct;8(10):1219-1230. doi: 10.1016/j.jacep.2022.06.019. Epub 2022 Aug 31.,2022,,Y,0.01621,0.01372,N,N,Y,,
+200,199,zaccaro_attention_2024,"Francesca,Ferri","female,99","0    0.79134
+Name: nh_white, dtype: float32",0.20865959,femalefemale,no,f,mf,1,N,0,10.1016/j.isci.2024.109586,iScience. 2024 Mar 27;27(4):109586. doi: 10.1016/j.isci.2024.109586. eCollection 2024 Apr 19.,2024,,Y,0.08855,0.08855,N,N,Y,,
+20,19,candia-rivera_conscious_2023,"Jacobo,Sitt","male,99","0    0.47405
+Name: nh_white, dtype: float32",0.52594966,malemale,no,m,mm,1,N,0,10.7554/eLife.75352,Elife. 2023 Oct 27;12:e75352. doi: 10.7554/eLife.75352.,2023,,Y,NA,NA,N,N,NA,,Y
+238,237,poppa_auricular_2022,"Kristl,Vonck","female,94","0    0.990651
+Name: nh_white, dtype: float32",0.009348846,femalefemale,no,f,ff,1,N,0,10.1016/j.brs.2021.12.004,Brain Stimul. 2022 Jan-Feb;15(1):260-269. doi: 10.1016/j.brs.2021.12.004. Epub 2021 Dec 18.,2022,,Y,0.01612,0.01414,N,N,Y,,
+262,261,elkommos_changes_2023,"Mahinda,Yogarajah","male,98","0    0.349503
+Name: nh_white, dtype: float32",0.6504967,femalemale,no,m,fm,1,N,0,10.1136/jnnp-2022-330167,J Neurol Neurosurg Psychiatry. 2023 Sep;94(9):769-775. doi: 10.1136/jnnp-2022-330167. Epub 2023 May 25.,2023,,Y,0.02339,0.02224,N,N,Y,,
+64,63,pelentritou_cardio-audio_2024,"Marzia,De","female,98","0    0.315636
+Name: nh_white, dtype: float32",0.6843639,femalefemale,no,f,ff,1,N,0,10.1038/s42003-024-05895-2,Commun Biol. 2024 Feb 23;7(1):226. doi: 10.1038/s42003-024-05895-2.,2024,,Y,0.08179,0.08179,N,N,Y,,
+108,107,bogdany_heartbeat_2022,"Pter,Simor","male,98","0    0.61372
+Name: nh_white, dtype: float32",0.38628015,malemale,no,m,mm,1,N,0,10.1016/j.nicl.2021.102933,Neuroimage Clin. 2022;33:102933. doi: 10.1016/j.nicl.2021.102933. Epub 2021 Dec 31.,2022,,Y,0.0227,0.02753,N,N,Y,,
+60,59,ono_exploring_2024,"Shigeto,Ymawaki","male,100","0    0.231291
+Name: nh_white, dtype: float32",0.7687087,malemale,no,m,mm,1,N,0,10.1038/s41598-024-55366-1,Sci Rep. 2024 Feb 26;14(1):4586. doi: 10.1038/s41598-024-55366-1.,2024,,Y,0.88141,0.88141,N,N,Y,,
+84,83,al_cardiac_2023,"Vadim,Nikulin","male,99","0    0.915539
+Name: nh_white, dtype: float32",0.084461175,femalemale,no,m,fm,1,Y,0,10.1371/journal.pbio.3002393,PLoS Biol. 2023 Nov 28;21(11):e3002393. doi: 10.1371/journal.pbio.3002393. eCollection 2023 Nov.,2023,,Y,0.04669,0.05458,N,N,Y,,
+230,229,liu_enhanced_2023,"Weidong,Wang","male,99","0    0.058445
+Name: nh_white, dtype: float32",0.94155514,malemale,no,m,mm,1,N,0,10.3389/fphys.2023.1144073,Front Physiol. 2023 Apr 3;14:1144073. doi: 10.3389/fphys.2023.1144073. eCollection 2023.,2023,,Y,0.07838,0.08343,N,N,Y,,
+210,209,de_la_fuente_multimodal_2019,"Agustin,Ibaez","male,97","0    0.036022
+Name: nh_white, dtype: float32",0.9639776,femalemale,no,m,fm,1,N,0,10.1038/s41386-019-0370-3,Neuropsychopharmacology. 2019 Jul;44(8):1425-1434. doi: 10.1038/s41386-019-0370-3. Epub 2019 Mar 13.,2019,,N,0.02802,0.04074,N,Y,Y,,
+102,101,yoris_multilevel_2018,"Agustin,Ibez","male,97","0    0.047179
+Name: nh_white, dtype: float32",0.952821,malemale,no,m,mm,1,N,0,10.1002/hbm.23933,Hum Brain Mapp. 2018 Apr;39(4):1563-1581. doi: 10.1002/hbm.23933. Epub 2017 Dec 21.,2018,,N,0.02537,0.04322,N,Y,Y,,
+96,95,wei_i_2016,"Eus,Van","male,87","0    0.166037
+Name: nh_white, dtype: float32",0.83396304,unknownmale,no,m,mm,1,N,0,10.5665/sleep.6308,Sleep. 2016 Dec 1;39(12):2113-2124. doi: 10.5665/sleep.6308.,2016,,N,0.01728,0.02603,N,Y,Y,,
+240,239,salamone_altered_2018,"Lucas,Sedeo","male,99","0    0.354169
+Name: nh_white, dtype: float32",0.6458315,femalemale,no,m,fm,1,N,0,10.1002/hbm.24319,Hum Brain Mapp. 2018 Dec;39(12):4743-4754. doi: 10.1002/hbm.24319. Epub 2018 Aug 4.,2018,,N,0.02537,0.04322,N,Y,Y,,
+144,143,garcia-cordero_attention_2017,"Lucas,Sedeo","male,99","0    0.354169
+Name: nh_white, dtype: float32",0.6458315,femalemale,no,m,fm,1,N,0,10.3389/fnins.2017.00411,Front Neurosci. 2017 Jul 19;11:411. doi: 10.3389/fnins.2017.00411. eCollection 2017.,2017,,N,0.07691,0.03451,N,Y,Y,,
+244,243,sel_heartfelt_2016,"Manos,Tsakiris","male,98","0    0.709309
+Name: nh_white, dtype: float32",0.29069147,femalemale,no,m,fm,1,N,0,10.1093/cercor/bhw296,Cereb Cortex. 2017 Nov 1;27(11):5144-5155. doi: 10.1093/cercor/bhw296.,2017,,N,0.02898,0.05893,N,Y,Y,,
+90,89,pollatos_brain_2005,"Rainer,Schandry","male,99","0    0.947394
+Name: nh_white, dtype: float32",0.052605864,femalemale,no,m,fm,1,N,0,10.1002/hbm.20121,Hum Brain Mapp. 2005 Sep;26(1):54-64. doi: 10.1002/hbm.20121.,2005,,N,0.02537,NA,N,Y,Y,,
+216,215,gentsch_affective_2019,"Simone,SchtzBosbach","male,66","0    0.957379
+Name: nh_white, dtype: float32",0.04262127,femalemale,yes,f,ff,1,N,0,10.1002/hbm.24352,Hum Brain Mapp. 2019 Jan;40(1):20-33. doi: 10.1002/hbm.24352. Epub 2018 Aug 30.,2019,,N,0.02537,0.04285,N,Y,Y,,
+136,135,canales-johnson_auditory_2015,"Tristan,Bekinschtein","male,97","0    0.986098
+Name: nh_white, dtype: float32",0.013902189,malemale,no,m,mm,1,N,0,10.1093/cercor/bhv076,Cereb Cortex. 2015 Nov;25(11):4490-503. doi: 10.1093/cercor/bhv076. Epub 2015 Apr 21.,2015,,N,0.02898,0.06806,N,Y,Y,,
+206,205,birba_allostatic-interoceptive_2022,"Agustin,Ibez","male,97","0    0.047179
+Name: nh_white, dtype: float32",0.952821,femalemale,no,m,fm,1,N,0,10.1016/j.biopsych.2022.02.955,Biol Psychiatry. 2022 Jul 1;92(1):54-67. doi: 10.1016/j.biopsych.2022.02.955. Epub 2022 Feb 24.,2022,,Y,0.02867,0.03415,N,Y,Y,,
+176,175,melo_dynamic_2022,"Antonio,Pereira","male,99","0    0.275405
+Name: nh_white, dtype: float32",0.72459453,femalemale,no,m,fm,1,N,0,10.3389/fneur.2022.904052,Front Neurol. 2022 Aug 10;13:904052. doi: 10.3389/fneur.2022.904052. eCollection 2022.,2022,,Y,0.08067,0.06415,N,Y,Y,,
+196,195,stoupi_heartbeat-evoked_2024,"Bigna,Lenggenhager","female,63","0    0.946277
+Name: nh_white, dtype: float32",0.053722933,femalefemale,yes,f,ff,1,N,0,10.3389/fnins.2024.1391437,Front Neurosci. 2024 Jul 5;18:1391437. doi: 10.3389/fnins.2024.1391437. eCollection 2024.,2024,,Y,0.07691,0.07691,N,Y,Y,,
+82,81,gao_increased_2023,"Hin,Sik","male,81","0    0.428873
+Name: nh_white, dtype: float32",0.5711267,unknownmale,no,m,mm,1,N,0,10.3389/fnhum.2023.1008490,Front Hum Neurosci. 2023 Jun 19;17:1008490. doi: 10.3389/fnhum.2023.1008490. eCollection 2023.,2023,,Y,0.02461,0.02353,N,Y,Y,,
+162,161,billeci_heartbeat-evoked_2021,"Laura,Sebastiani","female,98","0    0.890574
+Name: nh_white, dtype: float32",0.109426245,femalefemale,no,f,ff,1,N,0,10.3390/brainsci11081089,Brain Sci. 2021 Aug 19;11(8):1089. doi: 10.3390/brainsci11081089.,2021,,Y,0.04059,0.01335,N,Y,Y,,
+166,165,richter_behavioral_2021,"Lucas,Sedeo","male,99","0    0.354169
+Name: nh_white, dtype: float32",0.6458315,malemale,no,m,mm,1,N,0,10.1002/hbm.25288,Hum Brain Mapp. 2021 Apr 1;42(5):1227-1242. doi: 10.1002/hbm.25288. Epub 2020 Dec 16.,2021,,Y,0.02537,0.03205,N,Y,Y,,
+54,53,khoshnoud_brainheart_2022,"Marc,Wittmann","male,99","0    0.902531
+Name: nh_white, dtype: float32",0.097469285,malemale,no,m,fm,1,N,0,10.3389/fnhum.2022.819834,Front Hum Neurosci. 2022 Apr 28;16:819834. doi: 10.3389/fnhum.2022.819834. eCollection 2022.,2022,,Y,0.02461,0.02438,N,Y,Y,,
+16,15,flasbeck_short-term_2021,"Martin,Brne","male,98","0    0.917354
+Name: nh_white, dtype: float32",0.082645655,femalemale,no,m,fm,1,N,0,10.3389/fnins.2021.622428,Front Neurosci. 2021 Jun 29;15:622428. doi: 10.3389/fnins.2021.622428. eCollection 2021.,2021,,Y,0.07691,0.05979,N,Y,Y,,
+58,57,venturabort_transcutaneous_2024,"Mathias,Weymar","male,99","0    0.85399
+Name: nh_white, dtype: float32",0.14601,malemale,no,m,mm,1,N,0,10.1002/hbm.26613,Hum Brain Mapp. 2024 Feb 15;45(3):e26613. doi: 10.1002/hbm.26613.,2024,,Y,0.02537,0.02537,N,Y,Y,,
+246,245,simor_cortical_2021,"Pandelis,Perakakis","male,98","0    0.89927
+Name: nh_white, dtype: float32",0.1007304,malemale,no,m,mm,1,N,0,10.1093/sleep/zsab100,Sleep. 2021 Sep 13;44(9):zsab100. doi: 10.1093/sleep/zsab100.,2021,,Y,0.01728,0.01902,N,Y,Y,,
+198,197,verdonk_heartbeat-evoked_2024,"Sahib,Khalsa","male,96","0    0.211868
+Name: nh_white, dtype: float32",0.7881323,malemale,no,m,mm,1,N,0,10.1038/s41386-024-01806-5,Neuropsychopharmacology. 2024 Jul;49(8):1246-1254. doi: 10.1038/s41386-024-01806-5. Epub 2024 Jan 30.,2024,,Y,0.02802,0.02802,N,Y,Y,,
+78,77,liu_effects_2022,"Weidong,Wang","male,99","0    0.058445
+Name: nh_white, dtype: float32",0.94155514,malemale,no,m,mm,1,N,0,10.3389/fnins.2022.952329,Front Neurosci. 2022 Sep 8;16:952329. doi: 10.3389/fnins.2022.952329. eCollection 2022.,2022,,Y,0.07691,0.06674,N,Y,Y,,
+10,9,fittipaldi_multidimensional_2020,"Agustin,Ibez","male,97","0    0.047179
+Name: nh_white, dtype: float32",0.952821,femalemale,no,m,fm,1,N,0,10.1016/j.neuroimage.2020.116677,Neuroimage. 2020 May 15;212:116677. doi: 10.1016/j.neuroimage.2020.116677. Epub 2020 Feb 23.,2020,5,N,0.0791,0.10569,Y,Y,Y,,
+70,69,babo-rebelo_neural_2016,"Catherine,Tallon-Baudry","female,98","0    0.523927
+Name: nh_white, dtype: float32",0.4760729,femalefemale,no,f,ff,1,N,0,10.1523/JNEUROSCI.0262-16.2016,J Neurosci. 2016 Jul 27;36(30):7829-40. doi: 10.1523/JNEUROSCI.0262-16.2016.,2016,,N,0.05578,0.31937,Y,Y,Y,,
+202,201,babo-rebelo_neural_2019,"Catherine,Tallon-Baudry","female,98","0    0.523927
+Name: nh_white, dtype: float32",0.4760729,femalefemale,no,f,ff,1,N,0,10.1016/j.neuroimage.2019.02.012,Neuroimage. 2019 May 1;191:10-20. doi: 10.1016/j.neuroimage.2019.02.012. Epub 2019 Feb 7.,2019,,N,0.0791,0.12566,Y,Y,Y,,
+66,65,park_spontaneous_2014,"Catherine,Tallon-Baudry","female,98","0    0.523927
+Name: nh_white, dtype: float32",0.4760729,malefemale,no,f,mf,1,N,0,10.1038/nn.3671,Nat Neurosci. 2014 Apr;17(4):612-8. doi: 10.1038/nn.3671. Epub 2014 Mar 9.,2014,,N,0.08586,0.15492,Y,Y,Y,,
+22,21,petzschner_focus_2019,"Klaas,Stephan","male,96","0    0.912665
+Name: nh_white, dtype: float32",0.08733508,femalemale,no,m,fm,1,N,0,10.1016/j.neuroimage.2018.11.037,Neuroimage. 2019 Feb 1;186:595-606. doi: 10.1016/j.neuroimage.2018.11.037. Epub 2018 Nov 22.,2019,,N,0.0791,0.12566,Y,Y,Y,,
+142,141,park_transient_2016,"Olaf,Blanke","male,98","0    0.565401
+Name: nh_white, dtype: float32",0.43459868,malemale,no,m,mm,1,N,0,10.1523/JNEUROSCI.0311-16.2016,J Neurosci. 2016 Aug 10;36(32):8453-60. doi: 10.1523/JNEUROSCI.0311-16.2016.,2016,,N,0.05578,0.31937,Y,Y,Y,,
+248,247,solca_behavioral_2020,"Olaf,Blanke","male,98","0    0.565401
+Name: nh_white, dtype: float32",0.43459868,malemale,no,m,mm,1,N,0,10.1016/j.neuroimage.2020.116902,Neuroimage. 2020 Aug 15;217:116902. doi: 10.1016/j.neuroimage.2020.116902. Epub 2020 May 11.,2020,8,N,0.0791,0.10569,Y,Y,Y,,
+236,235,marshall_i_2019,"Simone,Schtz-Bosbach","male,66","0    0.953822
+Name: nh_white, dtype: float32",0.04617838,femalemale,yes,f,ff,1,N,0,10.1016/j.neuroimage.2019.02.032,Neuroimage. 2019 May 1;191:315-324. doi: 10.1016/j.neuroimage.2019.02.032. Epub 2019 Feb 16.,2019,,N,0.0791,0.12566,Y,Y,Y,,
+50,49,salamone_interoception_2021,"Agustin,Ibaez","male,97","0    0.036022
+Name: nh_white, dtype: float32",0.9639776,femalemale,no,m,fm,1,N,0,10.1523/JNEUROSCI.2578-20.2021,J Neurosci. 2021 May 12;41(19):4276-4292. doi: 10.1523/JNEUROSCI.2578-20.2021. Epub 2021 Apr 7.,2021,,Y,0.05578,0.10048,Y,Y,Y,,
+56,55,migeot_allostatic-interoceptive_2023,"Agustn,Ibez","male,100","0    0.110151
+Name: nh_white, dtype: float32",0.88984936,malemale,no,m,mm,1,N,0,10.1016/j.neuroimage.2023.120200,Neuroimage. 2023 Aug 1;276:120200. doi: 10.1016/j.neuroimage.2023.120200. Epub 2023 May 26.,2023,,Y,0.0791,0.09109,Y,Y,Y,,
+160,159,al_heartbeat_2021,"Arno,Villringer","male,99","0    0.838583
+Name: nh_white, dtype: float32",0.16141747,femalemale,no,m,fm,1,Y,0,10.1016/j.neuroimage.2021.118247,Neuroimage. 2021 Sep;238:118247. doi: 10.1016/j.neuroimage.2021.118247. Epub 2021 Jun 7.,2021,,Y,0.0791,0.1004,Y,Y,Y,,
+74,73,azzalini_responses_2021,"Catherine,Tallon-Baudry","female,98","0    0.523927
+Name: nh_white, dtype: float32",0.4760729,malefemale,no,f,mf,1,N,0,10.1523/JNEUROSCI.1932-20.2021,J Neurosci. 2021 Jun 9;41(23):5102-5114. doi: 10.1523/JNEUROSCI.1932-20.2021. Epub 2021 Apr 29.,2021,,Y,0.05578,0.10048,Y,Y,Y,,
+164,163,candia-rivera_neural_2021,"Catherine,Tallon-Baudry","female,98","0    0.523927
+Name: nh_white, dtype: float32",0.4760729,malefemale,no,f,mf,1,N,0,10.1523/JNEUROSCI.1740-20.2021,J Neurosci. 2021 Jun 16;41(24):5251-5262. doi: 10.1523/JNEUROSCI.1740-20.2021. Epub 2021 Mar 23.,2021,,Y,0.05578,0.10048,Y,Y,Y,,
+184,183,engelen_whose_2023,"Catherine,Tallon-Baudry","female,98","0    0.523927
+Name: nh_white, dtype: float32",0.4760729,femalefemale,no,f,ff,1,N,0,10.1016/j.neuroimage.2023.119867,Neuroimage. 2023 Mar;268:119867. doi: 10.1016/j.neuroimage.2023.119867. Epub 2023 Jan 5.,2023,,Y,0.0791,0.09109,Y,Y,Y,,
+250,249,zaccaro_brain-heart_2022,"Francesca,Ferri","female,99","0    0.79134
+Name: nh_white, dtype: float32",0.20865959,femalefemale,no,f,mf,1,N,0,10.1016/j.neuroimage.2022.119548,Neuroimage. 2022 Nov 15;262:119548. doi: 10.1016/j.neuroimage.2022.119548. Epub 2022 Aug 11.,2022,,Y,0.0791,0.09854,Y,Y,Y,,
+6,5,khoshnoud_when_2024,"Marc,Wittmann","male,99","0    0.902531
+Name: nh_white, dtype: float32",0.097469285,malemale,no,m,fm,1,N,0,10.1523/JNEUROSCI.2039-23.2024,J Neurosci. 2024 Jul 24:e2039232024. doi: 10.1523/JNEUROSCI.2039-23.2024. Online ahead of print.,2024,,Y,0.05578,0.05578,Y,Y,Y,,
+114,113,kritzman_steady-state_2022,"Nava,Levit-Binnun","female,66","0    0.813997
+Name: nh_white, dtype: float32",0.18600333,malefemale,yes,f,mf,1,N,0,10.1016/j.neuroimage.2022.119133,Neuroimage. 2022 Jul 1;254:119133. doi: 10.1016/j.neuroimage.2022.119133. Epub 2022 Mar 23.,2022,,Y,0.0791,0.09854,Y,Y,Y,,
+76,75,zhang_dual_2023,"Pengmin,Qin","unknown,50","0    0.021942
+Name: nh_white, dtype: float32",0.9780576,maleunknown,yes,m,fm,1,N,0,10.1016/j.neuroimage.2022.119817,Neuroimage. 2023 Feb 1;266:119817. doi: 10.1016/j.neuroimage.2022.119817. Epub 2022 Dec 16.,2023,,Y,0.0791,0.09109,Y,Y,Y,,
+110,109,marshall_inside_2022,"Simone,Schtz-Bosbach","male,66","0    0.953822
+Name: nh_white, dtype: float32",0.04617838,femalemale,yes,f,ff,1,N,0,10.1016/j.neuroimage.2022.119011,Neuroimage. 2022 May 1;251:119011. doi: 10.1016/j.neuroimage.2022.119011. Epub 2022 Feb 16.,2022,,Y,0.0791,0.09854,Y,Y,Y,,
