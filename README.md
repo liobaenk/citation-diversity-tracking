@@ -18,19 +18,25 @@
   + Other folders
     + /**literature**/ # regularly updated :butterfly:
     + /**templates**/ # use templates to quick-and-easy draft a results section for your manuscript <br />(under license CC0 1.0, no copy-right)
- 
+   
+### Copyright / license
+
+This work is licensed under a Creative Commons Attribution 4.0 International License. This means I kindly ask that you cite the following resources if you use or build upon this repo (see full references below):
++ https://github.com/liobaenk/citation-diversity-tracking (add current version!)
++ Dworkin, J. D., Linn, K. A., Teich, E. G., Zurn, P., Shinohara, R. T., & Bassett, D. S. (2020). The extent and drivers of gender imbalance in neuroscience reference lists. Nat Neurosci, 23(8), 918–926. https://doi.org/10.1038/s41593-020-0658-y
++ Zhou, D., Stiso, J., Bertolero, M., Cornblath, E., Teich, E., Sizemore Blevins, A., Murphy, K., Oudyk, K., Michael, C., Urai, A., Matelsky, J., Archila-Melendez, M. E. [virtualmarioe], Camp, C., Alacantra Castillo, R., Saxe, R., Dworkin, J., & Bassett, D. (2022). *dalejn/cleanBib: v1.1.3 (v1.1.3)*. Zenodo. https://doi.org/10.5281/zenodo.7375250
++ https://gender-api.com
+
 ### Q&A
 
 + (1) *Why should I track or even report my citation diversity in my manuscript/paper?* <br />Reporting citation diversity helps highlight and reduce bias in who gets cited, making research more fair and inclusive (Dworkin et al., 2020; Fulvio et al., 2021; Hefter et al., 2025). It’s a simple step that aligns with recent statements by publishing houses and journals in support of equity in science (*Springer Nature*: Hoving, 2024; Nature Reviews Bioengineering, 2023 | *Cell Press*: Sweet, 2021, 2022; *J Cogn Neurosci*: Fulvio, 2025; Fulvio et al., 2021).<br />
-Overall, by doing so, you highlight underrepresented voices in the research you cite. You also support visibility and recognition for colleagues whose names may signal minority backgrounds in your local context. More importantly, it gives you, especially if you're early in your career, a way to <ins>actively</ins> promote diversity, equity and inclusion ❣️ in science.
+Overall, by doing so, you highlight underrepresented voices in the research you cite. You also support visibility and recognition for colleagues whose names may signal minority backgrounds in your local context. More importantly, it gives you, especially if you're early in your career, a way to <ins>actively</ins> promote diversity, equity and inclusion in science ❣️
 
 + (2) *Why is this folder called citation-diversity, if you only process gender diversity?* <br />The folder is called citation-diversity because gender is intended to be just the starting point — the broader aim is to eventually include other dimensions like ethnicity (as in Bertolero et al., 2020, for U.S.A.-based ethnic categories) or even age approximations (see more information in [3]).
 
 + (3) *CleanBib provides me with ethnicity information, why don't you use it (yet)?* <br />While tools like cleanBib offer ethnicity estimates, they rely on U.S.-centric categories ('Asian/Pacific Islander, non-Hispanic Black, non-Hispanic White, Hispanic', Bertolero et al., 2020) that do not apply well in European or international contexts. For now, I’ve chosen not to include them until I can integrate services that reflect more nuanced, multiethnic name patterns (e.g., individuals of Eastern European descent may face discrimination yet are classified as White by cleanBib). This ensures the analysis remains both accurate and locally sensitive.
 
-### Copyright / license
-
-If you use this code, please cite this GitHub folder with the current version (https://github.com/liobaenk/citation-diversity-tracking [e.g., v1.0]) in your manuscript. Additionally, please cite Dworkin et al. (2020) and Zhou et al. (2022), and include a link to the automated Gender-API service (https://gender-api.com).
++ (4) *What about Journal Eigenfactor related analyses?* <br />Hefter et al. (2025) recently conducted broader analysis spanning across the 50 top Neuroscience Journals to complement their previous findings (Dworkin et al., 2020) that had focused on the top 5 of that time (Brain, Nat Neurosci, J Neurosci, NeuroImage, Neuron). Their selection of Journals was based on Eigenfactor scores (Bergstrom et al., 2008) published in Clarivate's yearly Journal Citation Reports (JCR). They identified different patterns across 3 groups of Journals, and also discuss patterns of self-citation behaviour. For a systematic review (Steinfath, Azanova, Kapralov et al.) we recently submitted, I conducted further Journal Eigenfactor related analyses (using data from Clarivate, 2024). I hope to integrate those soon into the R Markdown file.
 
 ### References
 
