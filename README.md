@@ -22,7 +22,7 @@
 ### Q&A
 
 + (1) *Why should I track or even report my citation diversity in my manuscript/paper?* <br />Reporting citation diversity helps highlight and reduce bias in who gets cited, making research more fair and inclusive (Dworkin et al., 2020; Fulvio et al., 2021; Hefter et al., 2025). It’s a simple step that aligns with recent statements by publishing houses and journals in support of equity in science (*Springer Nature*: Hoving, 2024; Nature Reviews Bioengineering, 2023 | *Cell Press*: Sweet, 2021, 2022; *J Cogn Neurosci*: Fulvio, 2025; Fulvio et al., 2021).<br />
-Overall, by doing so, you highlight underrepresented voices in the research you cite. You also support visibility and recognition for colleagues whose names may signal minority backgrounds in your local context. More importantly, it gives *you*, especially if you're early in your career, a way to <ins>actively</ins> promote diversity, equity and inclusion in science.
+Overall, by doing so, you highlight underrepresented voices in the research you cite. You also support visibility and recognition for colleagues whose names may signal minority backgrounds in your local context. More importantly, it gives you, especially if you're early in your career, a way to <ins>actively</ins> promote diversity, equity and inclusion ❣️ in science.
 
 + (2) *Why is this folder called citation-diversity, if you only process gender diversity?* <br />The folder is called citation-diversity because gender is intended to be just the starting point — the broader aim is to eventually include other dimensions like ethnicity (as in Bertolero et al., 2020, for U.S.A.-based ethnic categories) or even age approximations (see more information in [3]).
 
