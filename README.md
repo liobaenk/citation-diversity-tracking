@@ -4,19 +4,19 @@
 ### Relevant functionalities
 
 + :eyes: &nbsp; *B R O W S E* &nbsp; : &nbsp; check out datasets extracted from cleanBib, which formed the basis of published citation diversity analyses
-  + /**manuscript-results**/...
+  + /**manuscript-results**/ ...
     + [Marshall et al. (*Sci Rep* 2024)](https://github.com/liobaenk/citation-diversity-tracking/tree/main/manuscript-results/2024_marshall-et-al_distractor)
     + [Steinfath, Azanova, Kapralov et al. (submitted)](https://github.com/liobaenk/citation-diversity-tracking/tree/main/manuscript-results/2025_steinfath-et-al_hep-review/)
 + :bar_chart: &nbsp; *D O &nbsp; I T &nbsp; Y O U R S E L F* &nbsp; : &nbsp; conduct your own citation diversity analysis and report the results in your manuscript! *You can do so for your empirical papers as well as your systematic reviews*. In the case of reviews, I would suggest to distinguish between (a) the reviewed body of literature and (b) your (the author’s) citation behavior within the main text.
   + How to get you started:
-    + (1) /**instr**/instructions_how-to-use-cleanbib.pdf
-    + (2) create a .bib file, and run it through cleanBib (https://github.com/dalejn/cleanBib)
-    + (3) save cleanBib output (cleanedBib.csv, predictions.csv) in /**data**/... [input]
+    + (1) /**instr**/ instructions_how-to-use-cleanbib.pdf
+    + (2) create a .bib file, and run it through **<ins>cleanBib</ins>**
+    + (3) save **<ins>cleanBib</ins>** output (cleanedBib.csv, predictions.csv) in /**data**/ ... [input]
     + (4) 'example_enk_citation-diversity-tracking_v1.html' # scroll through the example to understand the process
     + (5) 'enk_citation-diversity-tracking_v1.Rmd' # run this code on your own data!
-    + (6) After .Rmd knitting, the output is automatically saved in /**output**/... [output]
+    + (6) After .Rmd knitting, the output is automatically saved in /**output**/ ... [output]
   + Other folders
-    + /**literature**/ # regularly updated :butterfly:
+    + /**literature**/
     + /**templates**/ # use templates to quick-and-easy draft a results section for your manuscript <br />(under license CC0 1.0, no copy-right)
    
 ### Copyright / license
