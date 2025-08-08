@@ -3,8 +3,8 @@ Steinfath, P. &ast;, Azanova, M. &ast;, Kapralov, N. &ast;, Loesche, T., Enk, L.
 &ast; shared first authorship
 ° shared last authorship
 
-Analysis code: https://github.com/PaulSteinfath/systematic-hep-review
-Shiny App: https://paulsteinfath.shinyapps.io/her-systematic-review/
+Analysis code: https://github.com/PaulSteinfath/systematic-hep-review<br />
+Shiny App: https://paulsteinfath.shinyapps.io/her-systematic-review/<br />
 Dataset of reviewed HER studies: https://osf.io/znrbm
 
 ---
