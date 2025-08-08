@@ -9,7 +9,7 @@
     + [Steinfath, Azanova, Kapralov et al. (submitted)](https://github.com/liobaenk/citation-diversity-tracking/tree/main/manuscript-results/2025_steinfath-et-al_hep-review/)
 + :bar_chart: &nbsp; *D O &nbsp; I T &nbsp; Y O U R S E L F* &nbsp; : &nbsp; conduct your own citation diversity analysis and report the results in your manuscript! *You can do so for your empirical papers as well as your systematic reviews*. In the case of reviews, I would suggest to distinguish between (a) the reviewed body of literature and (b) your (the author’s) citation behavior within the main text.
   + How to get you started:
-    + (1) /**instr**/instructions_how-to-use-cleanbib.pdf # explains how to use gender-api and cleanBib functionality
+    + (1) /**instr**/instructions_how-to-use-cleanbib.pdf
     + (2) create a .bib file, and run it through cleanBib (https://github.com/dalejn/cleanBib)
     + (3) save cleanBib output (cleanedBib.csv, predictions.csv) in /**data**/... [input]
     + (4) 'example_enk_citation-diversity-tracking_v1.html' # scroll through the example to understand the process
