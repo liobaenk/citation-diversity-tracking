@@ -1,9 +1,9 @@
-﻿Author,Journal,PublicationYear,GendCat,Subgroup,percent
-Dworkin et al.,Nat Neurosci,2020,MM,NA,58.6
-Dworkin et al.,Nat Neurosci,2020,FM,NA,25.3
-Dworkin et al.,Nat Neurosci,2020,MF,NA,9.4
-Dworkin et al.,Nat Neurosci,2020,FF,NA,6.7
-Hefter et al.,BioRxiv,2025,MM,NA,39
-Hefter et al.,BioRxiv,2025,FM,NA,29
-Hefter et al.,BioRxiv,2025,MF,NA,14
-Hefter et al.,BioRxiv,2025,FF,NA,18
+﻿Author,Journal,PublicationYear,FA,LA,GendCat_FALA,GendCat,singleauthors,selfcitations,percent
+Dworkin et al.,Nat Neurosci,2020,"Jordan D.,Dworkin","Danielle S.,Bassett",,MM,included,excluded,58.6
+Dworkin et al.,Nat Neurosci,2020,"Jordan D.,Dworkin","Danielle S.,Bassett",,FM,included,excluded,25.3
+Dworkin et al.,Nat Neurosci,2020,"Jordan D.,Dworkin","Danielle S.,Bassett",,MF,included,excluded,9.4
+Dworkin et al.,Nat Neurosci,2020,"Jordan D.,Dworkin","Danielle S.,Bassett",,FF,included,excluded,6.7
+Hefter et al.,BioRxiv,2025,"Kat,Hefter","Dani S.,Bassett",,MM,included,excluded,39
+Hefter et al.,BioRxiv,2025,"Kat,Hefter","Dani S.,Bassett",,FM,included,excluded,29
+Hefter et al.,BioRxiv,2025,"Kat,Hefter","Dani S.,Bassett",,MF,included,excluded,14
+Hefter et al.,BioRxiv,2025,"Kat,Hefter","Dani S.,Bassett",,FF,included,excluded,18

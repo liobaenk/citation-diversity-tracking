@@ -1,6 +1,8 @@
 # citation-diversity-tracking
 **Post-processing and visualising output from <ins>cleanBib</ins> (https://github.com/dalejn/cleanBib), a toolbox that utilises https://gender-api.com.**
 
+### v2.0
+
 ### Relevant functionalities
 
 + :eyes: &nbsp; *B R O W S E* &nbsp; : &nbsp; check out datasets extracted from cleanBib, which formed the basis of published citation diversity analyses
@@ -12,8 +14,8 @@
     + (1) /**instr**/ instructions_how-to-use-cleanbib.pdf
     + (2) create a .bib file, and run it through **<ins>cleanBib</ins>**
     + (3) save **<ins>cleanBib</ins>** output (cleanedBib.csv, predictions.csv) in /**data**/ ... [input]
-    + (4) 'example_enk_citation-diversity-tracking_v1.html' # scroll through the example to understand the process
-    + (5) 'enk_citation-diversity-tracking_v1.Rmd' # run this code on your own data!
+    + (4) have a look at the examples under **/output/example/...** (both for empirical paper & review)
+    + (5) 'enk_citationdiversitytracking_v2.Rmd' # run this code on your own data!
     + (6) After .Rmd knitting, the output is automatically saved in /**output**/ ... [output]
   + Other folders
     + /**literature**/
@@ -22,7 +24,7 @@
 ### Copyright / license
 
 This work is licensed under a Creative Commons Attribution 4.0 International License. This means I kindly ask that you cite the following resources if you use or build upon this repo (see full references below):
-+ https://github.com/liobaenk/citation-diversity-tracking (add current version!)
++ https://github.com/liobaenk/citation-diversity-tracking (v2.0)
 + Dworkin, J. D., Linn, K. A., Teich, E. G., Zurn, P., Shinohara, R. T., & Bassett, D. S. (2020). The extent and drivers of gender imbalance in neuroscience reference lists. Nat Neurosci, 23(8), 918–926. https://doi.org/10.1038/s41593-020-0658-y
 + Zhou, D., Stiso, J., Bertolero, M., Cornblath, E., Teich, E., Sizemore Blevins, A., Murphy, K., Oudyk, K., Michael, C., Urai, A., Matelsky, J., Archila-Melendez, M. E. [virtualmarioe], Camp, C., Alacantra Castillo, R., Saxe, R., Dworkin, J., & Bassett, D. (2022). *dalejn/cleanBib: v1.1.3 (v1.1.3)*. Zenodo. https://doi.org/10.5281/zenodo.7375250
 + https://gender-api.com
@@ -74,4 +76,4 @@ Steinfath, P. &ast;, Azanova, M. &ast;, Kapralov, N. &ast;, Loesche, T., Enk, L.
 
 ---
 
-&copy; Lioba Enk, last updated 07 August 2025
+&copy; Lioba Enk, last updated 10 August 2025

@@ -1,0 +1,103 @@
+Article,FA,LA,Title,SelfCite,CitationKey,UsedXref
+2,Esra,Arno,Heart–brain interactions shape somatosensory perception and evoked potentials,N,al_heartbrain_2020,N
+3,Luca,Scott,ICLabel: An automated electroencephalographic independent component classifier dataset and website,N,pion-tonachini_iclabel_2019,N
+4,Steven,Nicholas,How to get statistically significant effects in any ERP experiment (and why you shouldn't),N,luck_how_2017,N
+5,Steven,Steven,An introduction to the event-related potential technique,N,luck_introduction_2014,N
+6,Kat,Danielle,Gender imbalance in citations most pronounced in high-impact neuroscience journals,N,hefter_gender_2025,N
+7,Sol,Agustin,A multidimensional and multi-feature framework for cardiac interoception,N,fittipaldi_multidimensional_2020,N
+8,Vera,Martin,Short-Term Fasting and Ingestion of Caloric Drinks Affect Heartbeat-Evoked Potentials and Autonomic Nervous System Activity in Males,N,flasbeck_short-term_2021,N
+9,Juan,Juan,Suppression of the cardiac electric field artifact from the heart action evoked potential,N,perez_suppression_2005,N
+10,Gerhard,Friedrich,Cardiac field effects on the EEG,N,dirlich_cardiac_1997,N
+11,Amanda,Simone,Interoceptive cardiac expectations to emotional stimuli predict visual perception.,N,marshall_interoceptive_2020,N
+12,Andre,Claus,Distinctive body perception mechanisms in high versus low symptom reporters: A neurophysiological model for medically-unexplained symptoms,N,schulz_distinctive_2020,N
+13,Adrian,Pandelis,Delving into the relationship between regular physical exercise and cardiac interoception in two cross-sectional studies,N,yoris_delving_2024,N
+14,HyeongDong,Catherine,Spontaneous fluctuations in neural responses to heartbeats predict visual detection,N,park_spontaneous_2014,N
+15,Sarah,Mathias,Heartbeat Evoked Potentials during Sleep and Daytime Behavior in Children with Sleep-disordered Breathing,N,immanuel_heartbeat_2014,N
+16,Elsa,Alejandra,Timing along the cardiac cycle modulates neural signals of reward-based learning,N,fouragnan_timing_2024,N
+17,Lorenz,Olga,Elevated EEG heartbeat-evoked potentials in adolescents with more ADHD symptoms,N,rapp_elevated_2023,N
+18,Andre,Hartmut,Cortisol rapidly affects amplitudes of heartbeat-evoked brain potentials—Implications for the contribution of stress to an altered perception of physical sensations?,N,schulz_cortisol_2013,N
+19,Caroline,Joydeep,Aroused with heart: Modulation of heartbeat evoked potential by arousal induction and its oscillatory correlates,N,di_bernardi_luft_aroused_2015,N
+20,Diego,Gaetano,The role of electroencephalography electrical reference in the assessment of functional brain–heart interplay: From methodology to user guidelines,N,candia-rivera_role_2021,N
+21,Rainer,Rolf,From the heart to the brain: A study of heartbeat contingent scalp potentials,N,schandry_heart_1986,N
+22,Olga,Rainer,Accuracy of heartbeat perception is reflected in the amplitude of the heartbeat‐evoked brain potential,N,pollatos_accuracy_2004,N
+23,Marcus,Hugo,A cortical potential reflecting cardiac function,N,gray_cortical_2007,N
+24,Laura,Katja,Cortical Representation of Afferent Bodily Signals in Borderline Personality Disorder: Neural Correlates and Relationship to Emotional Dysregulation,N,muller_cortical_2015,N
+25,Annika,Claus,Enhanced cortical processing of cardio-afferent signals in anorexia nervosa,N,lutz_enhanced_2019,N
+26,Vera,Martin,Altered interoception in patients with borderline personality disorder: a study using heartbeat-evoked potentials,N,flasbeck_altered_2020,N
+27,Marius,Katja,Heart and brain: Cortical representation of cardiac signals is disturbed in borderline personality disorder but unaffected by oxytocin administration,N,schmitz_heart_2020,N
+28,Lucia,Laura,Heartbeat-Evoked Cortical Potential during Sleep and Interoceptive Sensitivity: A Matter of Hypnotizability,N,billeci_heartbeat-evoked_2021,N
+29,Marius,Katja,Heartbeat evoked potentials in patients with post-traumatic stress disorder: an unaltered neurobiological regulation system?,N,schmitz_heartbeat_2021,N
+30,Eline,Antonio,Dynamic coupling between the central and autonomic cardiac nervous systems in patients with refractory epilepsy: A pilot study,N,melo_dynamic_2022,N
+31,Alejandro,Enrica,Modulation of the heartbeat evoked cortical potential by hypnotizability and hypnosis,N,callara_modulation_2023,N
+32,Tahnee,Catherine,Whose emotion is it? Perspective matters to understand brain-body interactions in emotions,N,engelen_whose_2023,N
+33,Ayham,Jacobo,Resting-State EEG Signature of Early Consciousness Recovery in Comatose Patients with Traumatic Brain Injury,N,alkhachroum_resting-state_2024,N
+34,Susanne,Cristina,Cardiac interoception in Anorexia Nervosa: A resting‐state heartbeat‐evoked potential study,N,cambi_cardiac_2024,N
+35,Vera,Stoyan,Heartbeat evoked potentials and autonomic arousal during dissociative seizures: insights from electrophysiology and neuroimaging,N,flasbeck_heartbeat_2024,N
+36,Gioia,Enrica,Interoception as a function of hypnotizability during rest and a heartbeat counting task,N,giusti_interoception_2024,N
+37,Andrea,Francesca,Attention to cardiac sensations enhances the heartbeat-evoked potential during exhalation,N,zaccaro_attention_2024,N
+38,Leah,Damian,Skipping a Beat: Heartbeat-Evoked Potentials Reflect Predictions during Interoceptive-Exteroceptive Integration,N,banellis_skipping_2020,N
+39,Agustina,Agustin,Allostatic-Interoceptive Overload in Frontotemporal Dementia,N,birba_allostatic-interoceptive_2022,N
+40,Anne,Catherine,Does stroke volume influence heartbeat evoked responses?,N,buot_does_2021,N
+41,Hirokata,Satoshi,Association between interoception and empathy: Evidence from heartbeat-evoked brain potential,N,fukushima_association_2011,N
+42,Edward,Rolf,Individual Differences in Cortical Evoked Potentials as a Function of Heartbeat Detection Ability,N,katkin_individual_1991,N
+43,Marco,Olaf,Behavioral and neurophysiological evidence for altered interoceptive bodily processing in chronic pain,N,solca_behavioral_2020,N
+44,Rainer,Rolf,Enhancement of heartbeat-related brain potentials through cardiac awareness training,N,schandry_enhancement_1990,N
+45,Samia,Mahinda,Changes in the heartbeat-evoked potential are associated with functional seizures,N,elkommos_changes_2023,N
+46,Dale,Danielle,dalejn/cleanBib: v1.1.3,N,zhou_dalejncleanbib_2022,N
+47,Esra,Vadim,Cardiac activity impacts cortical motor excitability,N,al_cardiac_2023,N
+48,Damiano,Catherine,Visceral Signals Shape Brain Dynamics and Cognition,N,azzalini_visceral_2019,N
+49,Rotem,Tor,Reproducibility in Neuroimaging Analysis: Challenges and Solutions,N,botvinik-nezer_reproducibility_2023,N
+50,Megan,Emily,How many trials does it take to get a significant ERP effect? It depends,N,boudewyn_how_2018,N
+51,Katherine,Marcus,Power failure: Why small sample size undermines the reliability of neuroscience,N,button_power_2013,N
+52,Filipa,Stefan,Semi-automatic identification of independent components representing EEG artifact,N,campos_viola_semi-automatic_2009,N
+53,Christopher,Loukia,The past present and future of Registered Reports,N,chambers_past_2022,N
+54,Stephane,Helios,pwr: Basic Functions for Power Analysis,N,champely_pwr_2020,N
+55,Maximilien,Niko,A practical guide to the selection of independent components of the electroencephalogram for artifact correction,N,chaumon_practical_2015,N
+56,noauthor,noauthor,Citation diversity statement,N,noauthor_citation_2023,N
+57,Peter,Michael,The data-processing multiverse of event-related potentials (ERPs): A roadmap for the optimization and standardization of ERP processing and reduction pipelines,N,clayson_data-processing_2021,N
+58,MichelPierre,Jennifer,Systematic review and meta-analysis of the relationship between the heartbeat-evoked potential and interoception,N,coll_systematic_2021,N
+59,Antonio,Sonja,Cognition through the lens of a body–brain dynamic system,N,criscuolo_cognition_2022,N
+60,Emanuela,Olaf,Single neurons in the thalamus and subthalamic nucleus process cardiac and respiratory signals in humans,N,de_falco_single_2024,N
+61,Benedikt,Olaf,Unfold: An integrated toolbox for overlap correction non-linear modeling and regression-based EEG analysis,N,ehinger_unfold_2019,N
+62,Malte,Malte,Examining Psychological Science Through Systematic Meta-Method Analysis: A Call for Research,N,elson_examining_2019,N
+63,Tahnee,Catherine,Interoceptive rhythms in the brain,N,engelen_interoceptive_2023,N
+64,Mallory,Kristen,The neurobiology of interoception and affect,N,feldman_neurobiology_2024,N
+65,Jacqueline,Bradley,Gender (Im)balance in Citation Practices in Cognitive Neuroscience,N,fulvio_gender_2021,N
+66,Sarah,Hugo,Fear from the Heart: Sensitivity to Fear Stimuli Depends on Individual Heartbeats,N,garfinkel_fear_2014,N
+67,Kyla,Francesco,Estimating statistical power for event-related potential studies using the late positive potential,N,gibney_estimating_2020,N
+68,Tom,EricJan,Reducing bias increasing transparency and calibrating confidence with preregistration,N,hardwicke_reducing_2023,N
+69,Larry,Ingram,Statistical Methods for Meta-Analysis,N,hedges_statistical_1985,N
+70,Luna,Veronica,Blood pressure pulsations modulate central neuronal activity via mechanosensitive ion channels,N,jammal_salameh_blood_2024,N
+71,Andreas,Cindy,Committee report: Publication guidelines and recommendations for studies using electroencephalography and magnetoencephalography,N,keil_committee_2014,N
+72,Markus,Tonio,Heart cycle-related effects on event-related potentials spectral power changes and connectivity patterns in the human ECoG,N,kern_heart_2013,N
+73,Jaejoong,Bumseok,Heartbeat induces a cortical theta-synchronized network in the resting state,N,kim_heartbeat_2019,N
+74,Nikolaus,Edward,Everything You Never Wanted to Know about Circular Analysis but Were Afraid to Ask,N,kriegeskorte_everything_2010,N
+75,Nikolaus,Chris,Circular inference in neuroscience: The dangers of double dipping,N,kriegeskorte_circular_2010,N
+76,John,John,Bayesian Analysis Reporting Guidelines,N,kruschke_bayesian_2021,N
+77,Deniz,Arno,Attenuation of the Heartbeat-Evoked Potential in Patients With Atrial Fibrillation,N,kumral_attenuation_2022,N
+78,Stella,Michael,Active information sampling varies across the cardiac cycle,N,kunzendorf_active_2019,N
+79,Daniel,Peder,Equivalence Testing for Psychological Research: A Tutorial,N,lakens_equivalence_2018,N
+80,Michael,Kaylie,Sample size calculations in human electrophysiology (EEG and ERP) studies: A systematic review and recommendations for increased rigor,N,larson_sample_2017,N
+81,Eric,Robert,Nonparametric statistical testing of EEG- and MEG-data,N,maris_nonparametric_2007,N
+82,David,PRISMA,Systematic Reviews and Meta-Analyses: The PRISMA Statement,N,moher_systematic_2009,N
+83,Kyuichi,Yoshimi,Interaction among cardiac respiratory and locomotor rhythms during cardiolocomotor synchronization,N,niizeki_interaction_1993,N
+84,Sven,Ralf,Microsaccades are coupled to heartbeat,N,ohl_microsaccades_2016,N
+85,HyeongDong,Olaf,Heartbeat-evoked cortical responses: Underlying mechanisms functional roles and methodological considerations,N,park_heartbeat-evoked_2019,N
+86,Matthew,Clemens,Variability of ICA decomposition may impact EEG signals when used to remove eyeblink artifacts,N,pontifex_variability_2017,N
+87,Core,Core,R: A Language and Environment for Statistical Computing,N,r_core_team_r_2025,N
+88,Jona,Dejan,Cluster-based permutation tests of MEG/EEG data do not establish significance of effect latency or location,N,sassenhagen_cluster-based_2019,N
+89,Claude,Claude,A mathematical theory of communication,N,shannon_mathematical_1948,N
+90,James,Michael,Does modifying electrode placement of the 12 lead ECG matter in healthy subjects?,N,sheppard_does_2011,N
+91,Lina,Karin,The functional role of cardiac activity in perception and action,N,skora_functional_2022,N
+92,Courtney,Brian,Initial evidence of research quality of registered reports compared with the standard publishing model,N,soderberg_initial_2021,N
+93,Sara,Wolf,Increasing Transparency Through a Multiverse Analysis,N,steegen_increasing_2016,N
+94,Paul,Arno,Validating genuine changes in Heartbeat Evoked Potentials using Pseudotrials and Surrogate Procedures,N,steinfath_validating_2025,N
+95,Deborah,Deborah,New at Cell Press: The Inclusion and Diversity Statement,N,sweet_new_2021,N
+96,Catherine,Maria,The neural monitoring of visceral inputs rather than attention accounts for first-person perspective in conscious vision,N,tallon-baudry_neural_2018,N
+97,Darren,Steven,How inappropriate high-pass filters can produce artifactual effects and incorrect conclusions in ERP studies of language and cognition,N,tanner_how_2015,N
+98,Allison,Peter,Publication bias in meta-analysis: Its causes and consequences,N,thornton_publication_2000,N
+99,Darinka,Gustav,EEGManyPipelines: A Large-scale Grassroots Multi-analyst Study of Electroencephalography Analysis Practices in the Wild,N,trubutschek_eegmanypipelines_2024,N
+100,Satoshi,Yuri,Prospective memory mediated by interoceptive accuracy: A psychophysiological approach,N,umeda_prospective_2016,N
+101,EricJan,Richard,Bayesian inference for psychology,N,wagenmakers_bayesian_2018,N
+102,Fumihiko,JunIchiro,Respiratory Sinus Arrhythmia,N,yasuma_respiratory_2004,N
+103,John,Michael,Guyton and Hall Textbook of Medical Physiology,N,hall_guyton_2021,N

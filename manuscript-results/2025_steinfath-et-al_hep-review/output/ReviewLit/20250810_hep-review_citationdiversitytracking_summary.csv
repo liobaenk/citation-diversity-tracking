@@ -1,0 +1,17 @@
+"","Author","Journal","PublicationYear","FA","LA","GendCat_FALA","GendCat","singleauthors","selfcitations","percent","p_results","count"
+"1","Dworkin et al.","Nat Neurosci","2020","Jordan D.,Dworkin","Danielle S.,Bassett",NA,"MM","included","excluded",58.6,"1",NA
+"2","Dworkin et al.","Nat Neurosci","2020","Jordan D.,Dworkin","Danielle S.,Bassett",NA,"FM","included","excluded",25.3,"1",NA
+"3","Dworkin et al.","Nat Neurosci","2020","Jordan D.,Dworkin","Danielle S.,Bassett",NA,"MF","included","excluded",9.4,"1",NA
+"4","Dworkin et al.","Nat Neurosci","2020","Jordan D.,Dworkin","Danielle S.,Bassett",NA,"FF","included","excluded",6.7,"1",NA
+"5","Hefter et al.","BioRxiv","2025","Kat,Hefter","Dani S.,Bassett",NA,"MM","included","excluded",39,"2",NA
+"6","Hefter et al.","BioRxiv","2025","Kat,Hefter","Dani S.,Bassett",NA,"FM","included","excluded",29,"2",NA
+"7","Hefter et al.","BioRxiv","2025","Kat,Hefter","Dani S.,Bassett",NA,"MF","included","excluded",14,"2",NA
+"8","Hefter et al.","BioRxiv","2025","Kat,Hefter","Dani S.,Bassett",NA,"FF","included","excluded",18,"2",NA
+"9","hep-review","unpublished","noyear","Paul,Steinfath","Arno,Villringer","MM","MM","include","include",42.0634920634921,"3",53
+"10","hep-review","unpublished","noyear","Paul,Steinfath","Arno,Villringer","MM","FM","include","include",31.7460317460317,"3",40
+"11","hep-review","unpublished","noyear","Paul,Steinfath","Arno,Villringer","MM","MF","include","include",10.3174603174603,"3",13
+"12","hep-review","unpublished","noyear","Paul,Steinfath","Arno,Villringer","MM","FF","include","include",19.047619047619,"3",24
+"13","hep-review","unpublished","noyear","Paul,Steinfath","Arno,Villringer","MM","MM","exclude","include",NA,"4",NA
+"14","hep-review","unpublished","noyear","Paul,Steinfath","Arno,Villringer","MM","FM","exclude","include",NA,"4",NA
+"15","hep-review","unpublished","noyear","Paul,Steinfath","Arno,Villringer","MM","MF","exclude","include",NA,"4",NA
+"16","hep-review","unpublished","noyear","Paul,Steinfath","Arno,Villringer","MM","FF","exclude","include",NA,"4",NA

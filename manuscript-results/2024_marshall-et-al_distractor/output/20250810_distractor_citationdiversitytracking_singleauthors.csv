@@ -1,0 +1,5 @@
+"","X","CitationKey","Author","Gender","W","A","GendCat","Gender_check","Gender_posthoc","GendCat_posthoc","SelfCite_posthoc","SingleAuthor"
+"12",11,"seth_interoceptive_2013","Anil,Seth","male,99","0    0.47206
+Name: nh_white, dtype: float32",0.52794033,"malemale","no","m","mm","N",1
+"24",23,"macefield_cardiovascular_2003","Vaughan,Macefield","male,98","0    0.691816
+Name: nh_white, dtype: float32",0.3081844,"malemale","no","m","mm","N",1

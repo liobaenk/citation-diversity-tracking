@@ -1,0 +1,11 @@
+"","X","CitationKey","Author","Gender","W","A","GendCat","Gender_check","Gender_posthoc","GendCat_posthoc","SelfCite_posthoc","SingleAuthor"
+"188",187,"sweet_new_2021","Deborah,Sweet","female,98","0    0.902352
+Name: nh_white, dtype: float32",0.09764759,"femalefemale","no","f","ff","N",1
+"8",7,"luck_introduction_2014","Steven,Luck","male,99","0    0.967853
+Name: nh_white, dtype: float32",0.032147042,"malemale","no","m","mm","N",1
+"122",121,"elson_examining_2019","Malte,Elson","male,99","0    0.789981
+Name: nh_white, dtype: float32",0.21001865,"malemale","no","m","mm","N",1
+"150",149,"kruschke_bayesian_2021","John,Kruschke","male,99","0    0.995685
+Name: nh_white, dtype: float32",0.00431496,"malemale","no","m","mm","N",1
+"176",175,"shannon_mathematical_1948","Claude,Shannon","male,89","0    0.707595
+Name: nh_white, dtype: float32",0.29240507,"malemale","no","m","mm","N",1

@@ -1,0 +1,201 @@
+"","X","CitationKey","Author","Gender","W","A","GendCat","Gender_check","Gender_posthoc","GendCat_posthoc","SelfCite_posthoc","SingleAuthor"
+"1",0,"al_heartbeat_2021","Esra,Al","female,97","0    0.114722
+Name: nh_white, dtype: float32",0.8852783,"","no","f",NA,"N",0
+"2",1,"al_heartbeat_2021","Arno,Villringer","male,99","0    0.838583
+Name: nh_white, dtype: float32",0.16141747,"femalemale","no","m","fm","N",0
+"3",2,"motyka_interactions_2019","Pawe,Motyka","male,92","0    0.922298
+Name: nh_white, dtype: float32",0.07770233,"","no","m",NA,"N",0
+"4",3,"motyka_interactions_2019","Michael,Gaebler","male,99","0    0.982167
+Name: nh_white, dtype: float32",0.017833412,"malemale","no","m","mm","N",0
+"5",4,"al_heartbrain_2020","Esra,Al","female,97","0    0.114722
+Name: nh_white, dtype: float32",0.8852783,"","no","f",NA,"N",0
+"6",5,"al_heartbrain_2020","Arno,Villringer","male,99","0    0.838583
+Name: nh_white, dtype: float32",0.16141747,"femalemale","no","m","fm","N",0
+"7",6,"whiteside_five_2001","Stephen,Whiteside","male,99","0    0.917737
+Name: nh_white, dtype: float32",0.082262665,"","no","m",NA,"N",0
+"8",7,"whiteside_five_2001","Donald,Lynam","male,99","0    0.889172
+Name: nh_white, dtype: float32",0.11082787,"malemale","no","m","mm","N",0
+"9",8,"wilkinson_electrocutaneous_2013","Mary,Wilkinson","female,98","0    0.975935
+Name: nh_white, dtype: float32",0.024065016,"","no","f",NA,"N",0
+"10",9,"wilkinson_electrocutaneous_2013","Louisa,Edwards","female,96","0    0.532269
+Name: nh_white, dtype: float32",0.46773112,"femalefemale","no","f","ff","N",0
+"11",10,"seth_interoceptive_2013","Anil,Seth","male,99","0    0.47206
+Name: nh_white, dtype: float32",0.52794033,"","no","m",NA,"N",1
+"12",11,"seth_interoceptive_2013","Anil,Seth","male,99","0    0.47206
+Name: nh_white, dtype: float32",0.52794033,"malemale","no","m","mm","N",1
+"13",12,"suzuki_multisensory_2013","Keisuke,Suzuki","male,100","0    0.084975
+Name: nh_white, dtype: float32",0.91502464,"","no","m",NA,"N",0
+"14",13,"suzuki_multisensory_2013","Anil,Seth","male,99","0    0.47206
+Name: nh_white, dtype: float32",0.52794033,"malemale","no","m","mm","N",0
+"15",14,"schulte-korne_motion-onset_2004","Gerd,Schulte-Krne","male,87","0    0.987605
+Name: nh_white, dtype: float32",0.012394606,"","no","m",NA,"N",0
+"16",15,"schulte-korne_motion-onset_2004","Helmut,Remschmidt","male,98","0    0.972627
+Name: nh_white, dtype: float32",0.027373444,"malemale","no","m","mm","N",0
+"17",16,"verbruggen_fictitious_2013","Frederick,Verbruggen","male,99","0    0.902552
+Name: nh_white, dtype: float32",0.09744756,"","no","m",NA,"N",0
+"18",17,"verbruggen_fictitious_2013","Gordon,Logan","male,99","0    0.932445
+Name: nh_white, dtype: float32",0.06755513,"malemale","no","m","mm","N",0
+"19",18,"verbruggen_proactive_2014","Frederick,Verbruggen","male,99","0    0.902552
+Name: nh_white, dtype: float32",0.09744756,"","no","m",NA,"N",0
+"20",19,"verbruggen_proactive_2014","Christopher,Chambers","male,99","0    0.810682
+Name: nh_white, dtype: float32",0.1893184,"malemale","no","m","mm","N",0
+"21",20,"di_bernardi_luft_aroused_2015","Caroline,Di","female,98","0    0.136722
+Name: nh_white, dtype: float32",0.8632776,"","no","f",NA,"N",0
+"22",21,"di_bernardi_luft_aroused_2015","Joydeep,Bhattacharya","male,100","0    0.315553
+Name: nh_white, dtype: float32",0.68444693,"femalemale","no","m","fm","N",0
+"23",22,"macefield_cardiovascular_2003","Vaughan,Macefield","male,98","0    0.691816
+Name: nh_white, dtype: float32",0.3081844,"","no","m",NA,"N",1
+"24",23,"macefield_cardiovascular_2003","Vaughan,Macefield","male,98","0    0.691816
+Name: nh_white, dtype: float32",0.3081844,"malemale","no","m","mm","N",1
+"25",24,"makowski_heart_2020","Dominique,Makowski","male,57","0    0.952395
+Name: nh_white, dtype: float32",0.047605064,"","yes","m",NA,"N",0
+"26",25,"makowski_heart_2020","Pascale,Piolino","female,97","0    0.94066
+Name: nh_white, dtype: float32",0.05934046,"malefemale","no","f","mf","N",0
+"33",32,"ohl_microsaccades_2016","Sven,Ohl","male,99","0    0.99109
+Name: nh_white, dtype: float32",0.008909678,"","no","m",NA,"N",0
+"34",33,"ohl_microsaccades_2016","Ralf,Engbert","male,99","0    0.899881
+Name: nh_white, dtype: float32",0.100118965,"malemale","no","m","mm","N",0
+"35",34,"palser_relationship_2021","Eleanor,Palser","female,99","0    0.969299
+Name: nh_white, dtype: float32",0.030701337,"","no","f",NA,"N",0
+"36",35,"palser_relationship_2021","James,Kilner","male,99","0    0.967517
+Name: nh_white, dtype: float32",0.032482527,"femalemale","no","m","fm","N",0
+"37",36,"petzschner_focus_2019","Frederike,Petzschner","female,97","0    0.974294
+Name: nh_white, dtype: float32",0.02570605,"","no","f",NA,"N",0
+"38",37,"petzschner_focus_2019","Klaas,Stephan","male,96","0    0.912665
+Name: nh_white, dtype: float32",0.08733508,"femalemale","no","m","fm","N",0
+"39",38,"poreh_bpq_2006","Amir,Poreh","male,98","0    0.83751
+Name: nh_white, dtype: float32",0.1624901,"","no","m",NA,"N",0
+"40",39,"poreh_bpq_2006","Clare,Shelton","female,98","0    0.934153
+Name: nh_white, dtype: float32",0.0658467,"malefemale","no","f","mf","N",0
+"41",40,"potts_when_2006","Geoffrey,Potts","male,99","0    0.981425
+Name: nh_white, dtype: float32",0.018575095,"","no","m",NA,"N",0
+"42",41,"potts_when_2006","Read,Montague","male,80","0    0.696357
+Name: nh_white, dtype: float32",0.3036429,"malemale","yes","m","mm","N",0
+"43",42,"rae_response_2018","Charlotte,Rae","female,96","0    0.952726
+Name: nh_white, dtype: float32",0.04727422,"","no","f",NA,"N",0
+"44",43,"rae_response_2018","Hugo,Critchley","male,99","0    0.607131
+Name: nh_white, dtype: float32",0.3928691,"femalemale","no","m","fm","N",0
+"45",44,"rae_impact_2020","Charlotte,Rae","female,96","0    0.952726
+Name: nh_white, dtype: float32",0.04727422,"","no","f",NA,"N",0
+"46",45,"rae_impact_2020","Hugo,Critchley","male,99","0    0.607131
+Name: nh_white, dtype: float32",0.3928691,"femalemale","no","m","fm","N",0
+"49",48,"richter_phase-amplitude_2017","Craig,Richter","male,100","0    0.993634
+Name: nh_white, dtype: float32",0.0063660387,"","no","m",NA,"N",0
+"50",49,"richter_phase-amplitude_2017","Catherine,Tallon-Baudry","female,98","0    0.523927
+Name: nh_white, dtype: float32",0.4760729,"malefemale","no","f","mf","N",0
+"51",50,"russeler_implicit_2000","Jascha,Rsseler","male,97","0    0.385062
+Name: nh_white, dtype: float32",0.61493826,"","no","m",NA,"N",0
+"52",51,"russeler_implicit_2000","Frank,Rsler","male,99","0    0.954908
+Name: nh_white, dtype: float32",0.04509162,"malemale","no","m","mm","N",0
+"53",52,"soder_role_2016","Heather,Soder","female,99","0    0.974761
+Name: nh_white, dtype: float32",0.025238968,"","no","f",NA,"N",0
+"54",53,"soder_role_2016","Geoffrey,Potts","male,99","0    0.981425
+Name: nh_white, dtype: float32",0.018575095,"femalemale","no","m","fm","N",0
+"55",54,"san_martin_size_2010","Ren,San","male,71","0    0.368425
+Name: nh_white, dtype: float32",0.63157487,"","yes","m",NA,"N",0
+"56",55,"san_martin_size_2010","Agustn,Ibaez","male,100","0    0.082363
+Name: nh_white, dtype: float32",0.91763693,"malemale","no","m","mm","N",0
+"57",56,"salomon_insula_2016","Roy,Salomon","male,98","0    0.729934
+Name: nh_white, dtype: float32",0.27006638,"","no","m",NA,"N",0
+"58",57,"salomon_insula_2016","Olaf,Blanke","male,98","0    0.565401
+Name: nh_white, dtype: float32",0.43459868,"malemale","no","m","mm","N",0
+"59",58,"de_kinkelder_heartbeat-induced_2011","Roy,Kinkelder","male,98","0    0.951549
+Name: nh_white, dtype: float32",0.04845116,"","no","m",NA,"N",0
+"60",59,"de_kinkelder_heartbeat-induced_2011","Ton,Leeuwen","male,97","0    0.884948
+Name: nh_white, dtype: float32",0.115052044,"malemale","no","m","mm","N",0
+"61",60,"edwards_pain-related_2008","Louisa,Edwards","female,96","0    0.532269
+Name: nh_white, dtype: float32",0.46773112,"","no","f",NA,"N",0
+"62",61,"edwards_pain-related_2008","Ryusuke,Kakigi","male,99","0    0.467457
+Name: nh_white, dtype: float32",0.5325428,"femalemale","no","m","fm","N",0
+"63",62,"gallicchio_influence_2019","Germano,Gallicchio","male,99","0    0.906136
+Name: nh_white, dtype: float32",0.09386419,"","no","m",NA,"N",0
+"64",63,"gallicchio_influence_2019","Kerstin,Hoedlmoser","female,98","0    0.977914
+Name: nh_white, dtype: float32",0.022086091,"malefemale","no","f","mf","N",0
+"65",64,"galvez-pol_active_2020","Alejandro,Galvez-Pol","male,99","0    0.024298
+Name: nh_white, dtype: float32",0.9757017,"","no","m",NA,"N",0
+"66",65,"galvez-pol_active_2020","James,Kilner","male,99","0    0.967517
+Name: nh_white, dtype: float32",0.032482527,"malemale","no","m","mm","N",0
+"67",66,"garfinkel_fear_2014","Sarah,Garfinkel","female,98","0    0.963132
+Name: nh_white, dtype: float32",0.036868088,"","no","f",NA,"N",0
+"68",67,"garfinkel_fear_2014","Hugo,Critchley","male,99","0    0.607131
+Name: nh_white, dtype: float32",0.3928691,"femalemale","no","m","fm","N",0
+"69",68,"gray_baroreceptor_2010","Marcus,Gray","male,99","0    0.309665
+Name: nh_white, dtype: float32",0.6903354,"","no","m",NA,"N",0
+"70",69,"gray_baroreceptor_2010","Hugo,Critchley","male,99","0    0.607131
+Name: nh_white, dtype: float32",0.3928691,"malemale","no","m","mm","N",0
+"71",70,"jarosz_what_2014","Andrew,Jarosz","male,99","0    0.971181
+Name: nh_white, dtype: float32",0.028819045,"","no","m",NA,"N",0
+"72",71,"jarosz_what_2014","Jennifer,Wiley","female,98","0    0.90889
+Name: nh_white, dtype: float32",0.09111023,"malefemale","no","f","mf","N",0
+"73",72,"kunzendorf_active_2019","Stella,Kunzendorf","female,99","0    0.956333
+Name: nh_white, dtype: float32",0.043667197,"","no","f",NA,"N",0
+"74",73,"kunzendorf_active_2019","Michael,Gaebler","male,99","0    0.982167
+Name: nh_white, dtype: float32",0.017833412,"femalemale","no","m","fm","N",0
+"75",74,"larra_disentangling_2020","Mauro,Larra","male,99","0    0.12566
+Name: nh_white, dtype: float32",0.8743402,"","no","m",NA,"N",0
+"76",75,"larra_disentangling_2020","Hartmut,Schchinger","male,99","0    0.960625
+Name: nh_white, dtype: float32",0.03937529,"malemale","no","m","mm","N",0
+"77",76,"azevedo_cardiac_2017","Ruben,Azevedo","male,99","0    0.197694
+Name: nh_white, dtype: float32",0.8023061,"","no","m",NA,"N",0
+"78",77,"azevedo_cardiac_2017","Manos,Tsakiris","male,98","0    0.709309
+Name: nh_white, dtype: float32",0.29069147,"malemale","no","m","mm","N",0
+"79",78,"azevedo_afferent_2018","Ruben,Azevedo","male,99","0    0.197694
+Name: nh_white, dtype: float32",0.8023061,"","no","m",NA,"N",0
+"80",79,"azevedo_afferent_2018","Manos,Tsakiris","male,98","0    0.709309
+Name: nh_white, dtype: float32",0.29069147,"malemale","no","m","mm","N",0
+"81",80,"feldman_barrett_interoceptive_2015","Lisa,Feldman","female,98","0    0.981695
+Name: nh_white, dtype: float32",0.018304858,"","no","f",NA,"N",0
+"82",81,"feldman_barrett_interoceptive_2015","Kyle,Simmons","male,98","0    0.866477
+Name: nh_white, dtype: float32",0.13352269,"femalemale","no","m","fm","N",0
+"83",82,"birznieks_modulation_2012","Ingvars,Birznieks","male,100","0    0.799514
+Name: nh_white, dtype: float32",0.20048648,"","no","m",NA,"N",0
+"84",83,"birznieks_modulation_2012","Vaughan,Macefield","male,98","0    0.691816
+Name: nh_white, dtype: float32",0.3081844,"malemale","no","m","mm","N",0
+"85",84,"canales-johnson_auditory_2015","Andrs,Canales-Johnson","male,100","0    0.181437
+Name: nh_white, dtype: float32",0.8185633,"","no","m",NA,"N",0
+"86",85,"canales-johnson_auditory_2015","Tristan,Bekinschtein","male,97","0    0.986098
+Name: nh_white, dtype: float32",0.013902189,"malemale","no","m","mm","N",0
+"87",86,"couto_man_2014","Blas,Couto","male,98","0    0.752465
+Name: nh_white, dtype: float32",0.24753542,"","no","m",NA,"N",0
+"88",87,"couto_man_2014","Agustn,Ibez","male,100","0    0.110151
+Name: nh_white, dtype: float32",0.88984936,"malemale","no","m","mm","N",0
+"89",88,"critchley_influence_2018","Hugo,Critchley","male,99","0    0.607131
+Name: nh_white, dtype: float32",0.3928691,"","no","m",NA,"N",0
+"90",89,"critchley_influence_2018","Sarah,Garfinkel","female,98","0    0.963132
+Name: nh_white, dtype: float32",0.036868088,"malefemale","no","f","mf","N",0
+"91",90,"daltrozzo_neurocognitive_2014","Jerome,Daltrozzo","male,99","0    0.956096
+Name: nh_white, dtype: float32",0.043904148,"","no","m",NA,"N",0
+"92",91,"daltrozzo_neurocognitive_2014","Christopher,Conway","male,99","0    0.920513
+Name: nh_white, dtype: float32",0.079487056,"malemale","no","m","mm","N",0
+"93",92,"danielmeier_posterior_2011","Claudia,Danielmeier","female,98","0    0.43689
+Name: nh_white, dtype: float32",0.5631097,"","no","f",NA,"N",0
+"94",93,"danielmeier_posterior_2011","Markus,Ullsperger","male,99","0    0.85184
+Name: nh_white, dtype: float32",0.14815961,"femalemale","no","m","fm","N",0
+"95",94,"engelen_interoceptive_2023","Tahne,Engelen","female,75","0    0.962648
+Name: nh_white, dtype: float32",0.037351973,"","yes","f",NA,"N",0
+"96",95,"engelen_interoceptive_2023","Catherine,Tallon-Baudry","female,98","0    0.523927
+Name: nh_white, dtype: float32",0.4760729,"femalefemale","no","f","ff","N",0
+"97",96,"spielberger_manual_1983","Charles,Spielberger","male,98","0    0.985142
+Name: nh_white, dtype: float32",0.014857622,"","no","m",NA,"N",0
+"98",97,"spielberger_manual_1983","Gerard,Jacobs","male,98","0    0.847542
+Name: nh_white, dtype: float32",0.15245776,"malemale","no","m","mm","N",0
+"99",98,"beck_inventory_1961","Aaron,Beck","male,99","0    0.966291
+Name: nh_white, dtype: float32",0.033708986,"","no","m",NA,"N",0
+"100",99,"beck_inventory_1961","John,Erbaugh","male,99","0    0.989356
+Name: nh_white, dtype: float32",0.010643609,"malemale","no","m","mm","N",0
+"101",100,"adelhofer_cardiac_2020","Nico,Adelhfer","male,97","0    0.939746
+Name: nh_white, dtype: float32",0.06025371,"","no","m",NA,"N",0
+"102",101,"adelhofer_cardiac_2020","Christian,Beste","male,100","0    0.657028
+Name: nh_white, dtype: float32",0.34297204,"malemale","no","m","mm","N",0
+"103",102,"maris_nonparametric_2007","Eric,Maris","male,99","0    0.808715
+Name: nh_white, dtype: float32",0.19128469,"","no","m",NA,"N",0
+"104",103,"maris_nonparametric_2007","Robert,Oostenveld","male,99","0    0.992039
+Name: nh_white, dtype: float32",0.00796105,"malemale","no","m","mm","N",0
+"105",104,"pramme_cardiac_2016","Lisa,Pramme","female,98","0    0.896523
+Name: nh_white, dtype: float32",0.10347693,"","no","f",NA,"N",0
+"106",105,"pramme_cardiac_2016","Christian,Frings","male,100","0    0.838059
+Name: nh_white, dtype: float32",0.16194052,"femalemale","no","m","fm","N",0
+"107",106,"pramme_cardiac_2014","Lisa,Pramme","female,98","0    0.896523
+Name: nh_white, dtype: float32",0.10347693,"","no","f",NA,"N",0
+"108",107,"pramme_cardiac_2014","Christian,Frings","male,100","0    0.838059
+Name: nh_white, dtype: float32",0.16194052,"femalemale","no","m","fm","N",0

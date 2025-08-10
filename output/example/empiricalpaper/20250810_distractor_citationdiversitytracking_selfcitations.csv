@@ -1,0 +1,17 @@
+"","X","CitationKey","Author","Gender","W","A","GendCat","Gender_check","Gender_posthoc","GendCat_posthoc","SelfCite_posthoc"
+"27",26,"marshall_exteroceptive_2017","Amanda,Marshall","female,98","0    0.852727
+Name: nh_white, dtype: float32",0.1472726,"","no","f",NA,"Y"
+"28",27,"marshall_exteroceptive_2017","Simone,Schtz-Bosbach","male,66","0    0.953822
+Name: nh_white, dtype: float32",0.04617838,"femalemale","yes","f","ff","Y"
+"29",28,"marshall_cardiac_2018","Amanda,Marshall","female,98","0    0.852727
+Name: nh_white, dtype: float32",0.1472726,"","no","f",NA,"Y"
+"30",29,"marshall_cardiac_2018","Simone,Schtz-Bosbach","male,66","0    0.953822
+Name: nh_white, dtype: float32",0.04617838,"femalemale","yes","f","ff","Y"
+"31",30,"marshall_inside_2022","Amanda,Marshall","female,98","0    0.852727
+Name: nh_white, dtype: float32",0.1472726,"","no","f",NA,"Y"
+"32",31,"marshall_inside_2022","Simone,Schtz-Bosbach","male,66","0    0.953822
+Name: nh_white, dtype: float32",0.04617838,"femalemale","yes","f","ff","Y"
+"47",46,"ren_response_2022","Qiaoyue,Ren","female,75","0    0.059444
+Name: nh_white, dtype: float32",0.94055647,"","yes","f",NA,"N"
+"48",47,"ren_response_2022","Simone,Schtz-Bosbach","male,66","0    0.953822
+Name: nh_white, dtype: float32",0.04617838,"femalemale","yes","f","ff","Y"
