@@ -11,14 +11,13 @@ Dataset of reviewed HER studies: https://osf.io/znrbm
 
 [1]
 
-Note, since it is a systematic review:<br>
-We analysed the reviewed body of literature (here, 132 included HEP studies; —> folder reviewed_body) as well as our own citation behaviour in the manuscript or main text (—> folder own_citation_behaviour). This is because not all reviewed studies were referenced in the main text, and because the main text includes other references (not reviewed).
+Note, this is a **Systematic Review**. For that reason, we analysed the reviewed body of literature (here, 132 included HER studies —> **ReviewLit/**) as well as our own citation behaviour in the manuscript or main text (—> **OwnCitationBehav/**). This is because not all reviewed studies were referenced in the main text, and because - naturally - the main text includes additional references.
 
 ---
 
 [2]
 
-We conducted further analyses on the body of reviewed HER research (as outlined under section *Statement and gender composition within HER research and citation diversity* of the main text, as well as in *Supplementary Section D*). The analyses can be tracked in the knitted .Rmd file: **enk_further_citationdiversitytracking.html**. The code was last updated (to add documentation) on 11 August 2025.
+We conducted further analyses on the body of reviewed HER research (as outlined under section *Statement and gender composition within HER research and citation diversity* of the main text, as well as in *Supplementary Section D*). The analyses (code,results) can be tracked in the knitted .Rmd file **enk_further_citationdiversitytracking.html**. The code was last updated on 11 August 2025 to add documentation.
 
 ---
 
