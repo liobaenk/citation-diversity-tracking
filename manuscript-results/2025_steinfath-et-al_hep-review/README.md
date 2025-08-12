@@ -27,6 +27,6 @@ We conducted further analyses on the body of reviewed HER research (as outlined 
 
 ---
 
-Last updated: 12 August 2025
+Last updated: 12 August 2025<br>
 Author: Lioba Enk (enk@cbs.mpg.de)
 
