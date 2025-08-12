@@ -4,5 +4,9 @@ Data & Materials: https://doi.org/10.17605/OSF.IO/C6YT4
 
 ---
 
-Last updated: 06 August 2025
+Citation-diversity-tracking output files are stored in 🟢 **output/**.
+
+---
+
+Last updated: 12 August 2025<br>
 Author: Lioba Enk (enk@cbs.mpg.de)
