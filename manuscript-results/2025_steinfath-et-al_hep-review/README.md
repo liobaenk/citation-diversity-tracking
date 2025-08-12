@@ -17,10 +17,16 @@ Note, this is a **Systematic Review**. For that reason, we analysed the reviewed
 
 [2]
 
-We conducted further analyses on the body of reviewed HER research (as outlined under section *Statement and gender composition within HER research and citation diversity* of the main text, as well as in *Supplementary Section D*). The analyses (code,results) can be tracked in the knitted .Rmd file **enk_further_citationdiversitytracking.html**. The code was last updated on 11 August 2025 to add documentation.
+Citation-diversity-tracking output files are stored in 🟢 **output/**. 
 
 ---
 
-Last updated: 11 August 2025
+[3]
+
+We conducted further analyses on the body of reviewed HER research (as outlined under section *Statement and gender composition within HER research and citation diversity* of the main text, as well as in *Supplementary Section D*). The analyses (code,results) can be tracked in the knitted .Rmd file 🟢 **enk_further_citationdiversitytracking.html**. The code was last updated on 11 August 2025 to add documentation.
+
+---
+
+Last updated: 12 August 2025
 Author: Lioba Enk (enk@cbs.mpg.de)
 
