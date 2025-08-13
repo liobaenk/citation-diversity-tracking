@@ -70,7 +70,7 @@ Zhou, D., Stiso, J., Bertolero, M., Cornblath, E., Teich, E., Sizemore Blevins, 
 
 Marshall, A. C., Ren, Q., Enk, L., Liu, J., & Schütz-Bosbach, S. (2024). The effect of cardiac phase on distractor suppression and motor inhibition in a stop-signal task. *Scientific Reports, 14*(1), 29847. https://doi.org/10.1038/s41598-024-80742-2
 
-Steinfath, P. &ast;, Azanova, M. &ast;, Kapralov, N. &ast;, Loesche, T., Enk, L., Nikulin, V. ° & Villringer, A. °. *Heartbeat-evoked responses in M/EEG: A systematic review of methods with suggestions for analysis and reporting*. Manuscript submitted for publication.
+Steinfath, P. &ast;, Azanova, M. &ast;, Kapralov, N. &ast;, Loesche, T., Enk, L., Nikulin, V. ° & Villringer, A. °. Heartbeat-evoked responses in M/EEG: A systematic review of methods with suggestions for analysis and reporting. *bioRxiv*, 2025-08. https://doi.org/10.1101/2025.08.08.668923
 
 &ast; shared first authorship ° shared last authorship
 
