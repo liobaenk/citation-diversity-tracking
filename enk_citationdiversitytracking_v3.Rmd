@@ -13,7 +13,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
   * authored by: **[Lioba Enk](https://www.cbs.mpg.de/person/enk/1770355), Spokesperson for the Diversity and Inclusion Committee (MPI CBS, Leipzig, Germany)^[https://www.cbs.mpg.de/diversity-inclusion-committee; diversity-list@cbs.mpg.de]**
-  * last updated: **10 August 2025 | v2.0**
+  * last updated: **28 Jan 2026 | v3.0**
 
 ---
 
@@ -28,7 +28,7 @@ source(file = file.path("data/configs/default_settings.R"))
 
 ```{r, warning=FALSE}
 
-review = 1
+review = 0
 
 if (review == 1) {
   dir.create("data/ReviewLit")
@@ -115,12 +115,12 @@ Insert the full names of the authors at first and last position in the author li
 *Note: No space after comma & some letters with diacritics, e.g. äüöɫ, are not processed by `cleanBib` and therefore do not appear in their output file `predictions`! <br>So, those may be gone now OR (as adviced in instruction video) written without diacritics.*
 
 ```{r}
-own_first = "First_name,Last_name"
+own_first = "First_name,Last_name" # e.g. "Kim,Muster"
 own_last = "First_name,Last_name"
 
 # case shared authorship: insert, if applies
-#own_first2 = "First_name,Last_name"
-#own_last2 = "First_name,Last_name"
+# own_first2 = "First_name,Last_name"
+# own_last2 = "First_name,Last_name"
 
 ```
 
@@ -140,7 +140,7 @@ Lastly, please insert the name of the project, and at which status the manuscrip
 ```{r}
 own_project = "project_name"
 own_journal = "unpublished" # bioRxiv, J Neurosci, NeuroImage, PLOS Biolog, ...
-own_year = "noyear" # "2022", "2030", ...
+own_year = "publication_year" # "2022", "2030", ...
 ```
 
 ```{r, echo=FALSE}
@@ -336,12 +336,12 @@ paged_table(check_predictions[,c("CitationKey", "Author", "Gender","Gender_check
 
 check_predictions$Gender_posthoc = c(
   
-  # example
-  # "male", "female", "female", "female", "male", "female", "female", "male", "female"
+  # "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA",
+  # "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA",
+  # "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA"
   
-  #"NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA",
-  #"NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA",
-  #"NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA"
+  # Example...
+  "unknown", "unknown", "female", "male"
 
   )
 ```
@@ -657,9 +657,9 @@ p5 = ggplot(data=summary_selfcite, aes(x=X1, y=X2)) +
            y=sum(summary_selfcite$X2)+1, 
            label=paste(as.character(
              round( length(unique(df$CitationKey)) / 
-                      (sum(your_summary$your_count) + nrow(n_unknown_pairs)) * 100,2)),
+                      (sum(your_summary$your_count) + length(unique(df$CitationKey)) + nrow(n_unknown_pairs)) * 100,2)),
                        "%","\nof all citations","\n(n=",
-             as.character(sum(your_summary$your_count) + nrow(n_unknown_pairs)),")", sep=""),
+             as.character(sum(your_summary$your_count) + length(unique(df$CitationKey)) + nrow(n_unknown_pairs)),")", sep=""),
               color="black", size=rel(4))+
     p45_theme
 
@@ -737,7 +737,7 @@ Note (09.08.2025): will be updated and published soon again. Please reach out if
 
 #### Acknowledgements 
 
-My thanks go to my colleagues [Paul Steinfath](https://www.cbs.mpg.de/person/steinfath/371395), [Nick Kapralov](https://www.cbs.mpg.de/employees/kapralov) and [Magda Gippert](https://www.cbs.mpg.de/employees/gippert) for their valuable feedback, recommendations, and interest. Finally, heartfelt thanks to all members of the Diversity & Inclusion Committee of the MPI CBS in Leipzig — especially to [Jo Finnemann](https://www.cbs.mpg.de/employees/finnemann)! 🦋
+My thanks go to my colleagues [Paul Steinfath](https://www.cbs.mpg.de/person/steinfath/371395), [Nick Kapralov](https://www.cbs.mpg.de/employees/kapralov) and [Magda Gippert](https://www.cbs.mpg.de/employees/gippert) for their valuable feedback, recommendations, and interest. Finally, heartfelt thanks to all members of the Diversity & Inclusion Committee of the MPI CBS in Leipzig — especially to [Jo Finnemann](https://jjf33.user.srcf.net)! 🦋
 
 ---
 

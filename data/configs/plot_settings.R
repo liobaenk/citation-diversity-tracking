@@ -1,7 +1,7 @@
 
 # citation-diversity-tracking
 # Author      Lioba Enk (enk@cbs.mpg.de)
-# Last updated  10 Aug 2025
+# Last updated  28 Jan 2026
 
 # VISUALISATION
 
@@ -63,7 +63,7 @@ p3_theme = theme_classic()+
   theme(title = element_text(size = rel(1.2)),
         axis.title = element_text(size = rel(0.9)),
         axis.text = element_text(size = rel(1.1)),
-        legend.text = element_text(size = rel(1.1)),
+        legend.text = element_text(size = rel(0.95)), #1.1
         legend.position = c(0.01, 0.01), 
         legend.justification = c(0, 0),
         legend.key.size = unit(1.8, "lines"),
