@@ -1,4 +1,8 @@
 "","X","CitationKey","Author","Gender","W","A","GendCat","Gender_check","Gender_posthoc","GendCat_posthoc","SelfCite_posthoc","SingleAuthor"
+"1",0,"al_heartbrain_2020","Esra,Al","female,97","0    0.114722
+Name: nh_white, dtype: float32",0.8852783,"","no","f",NA,"N",0
+"2",1,"al_heartbrain_2020","Arno,Villringer","male,99","0    0.838583
+Name: nh_white, dtype: float32",0.16141747,"femalemale","no","m","fm","Y",0
 "3",2,"pion-tonachini_iclabel_2019","Luca,Pion-Tonachini","male,98","0    0.537089
 Name: nh_white, dtype: float32",0.46291122,"","no","m",NA,"N",0
 "4",3,"pion-tonachini_iclabel_2019","Scott,Makeig","male,100","0    0.990739
@@ -147,6 +151,10 @@ Name: nh_white, dtype: float32",0.6504967,"femalemale","no","m","fm","N",0
 Name: nh_white, dtype: float32",0.79427737,"","no","m",NA,"N",0
 "76",75,"zhou_dalejncleanbib_2022","Danielle,Bassett","female,96","0    0.732539
 Name: nh_white, dtype: float32",0.26746115,"malefemale","no","f","mf","N",0
+"77",76,"al_cardiac_2023","Esra,Al","female,97","0    0.114722
+Name: nh_white, dtype: float32",0.8852783,"","no","f",NA,"N",0
+"78",77,"al_cardiac_2023","Vadim,Nikulin","male,99","0    0.915539
+Name: nh_white, dtype: float32",0.084461175,"femalemale","no","m","fm","Y",0
 "79",78,"azzalini_visceral_2019","Damiano,Azzalini","male,99","0    0.77376
 Name: nh_white, dtype: float32",0.22624005,"","no","m",NA,"N",0
 "80",79,"azzalini_visceral_2019","Catherine,Tallon-Baudry","female,98","0    0.523927
@@ -255,6 +263,10 @@ Name: nh_white, dtype: float32",0.026503533,"malemale","no","m","mm","N",0
 Name: nh_white, dtype: float32",0.00431496,"","no","m",NA,"N",1
 "132",131,"kruschke_bayesian_2021","John,Kruschke","male,99","0    0.995685
 Name: nh_white, dtype: float32",0.00431496,"malemale","no","m","mm","N",1
+"133",132,"kumral_attenuation_2022","Deniz,Kumral","male,62","0    0.475677
+Name: nh_white, dtype: float32",0.52432346,"","yes","f",NA,"N",0
+"134",133,"kumral_attenuation_2022","Arno,Villringer","male,99","0    0.838583
+Name: nh_white, dtype: float32",0.16141747,"malemale","no","m","fm","Y",0
 "135",134,"kunzendorf_active_2019","Stella,Kunzendorf","female,99","0    0.956333
 Name: nh_white, dtype: float32",0.043667197,"","no","f",NA,"N",0
 "136",135,"kunzendorf_active_2019","Michael,Gaebler","male,99","0    0.982167
@@ -315,6 +327,10 @@ Name: nh_white, dtype: float32",0.01626396,"femalemale","no","m","fm","N",0
 Name: nh_white, dtype: float32",0.06285394,"","no","f",NA,"N",0
 "164",163,"steegen_increasing_2016","Wolf,Vanpaemel","male,80","0    0.919536
 Name: nh_white, dtype: float32",0.08046409,"femalemale","yes","m","fm","N",0
+"165",164,"steinfath_validating_2025","Paul,Steinfath","male,99","0    0.97645
+Name: nh_white, dtype: float32",0.023549862,"","no","m",NA,"Y",0
+"166",165,"steinfath_validating_2025","Arno,Villringer","male,99","0    0.838583
+Name: nh_white, dtype: float32",0.16141747,"malemale","no","m","mm","Y",0
 "167",166,"sweet_new_2021","Deborah,Sweet","female,98","0    0.902352
 Name: nh_white, dtype: float32",0.09764759,"","no","f",NA,"N",1
 "168",167,"sweet_new_2021","Deborah,Sweet","female,98","0    0.902352
@@ -423,3 +439,7 @@ Name: nh_white, dtype: float32",0.088288054,"malemale","no","m","mm","N",0
 Name: nh_white, dtype: float32",0.18651049,"","no","m",NA,"N",1
 "220",219,"yoder_peakfinderx0_2026","Nathanael,Yoder","male,100","0    0.813489
 Name: nh_white, dtype: float32",0.18651049,"malemale","no","m","mm","N",1
+"221",220,"villringer_brainbody_2025","Arno,Villringer","male,99","0    0.838583
+Name: nh_white, dtype: float32",0.16141747,"","no","m",NA,"Y",0
+"222",221,"villringer_brainbody_2025","Michael,Gaebler","male,99","0    0.982167
+Name: nh_white, dtype: float32",0.017833412,"malemale","no","m","mm","N",0
