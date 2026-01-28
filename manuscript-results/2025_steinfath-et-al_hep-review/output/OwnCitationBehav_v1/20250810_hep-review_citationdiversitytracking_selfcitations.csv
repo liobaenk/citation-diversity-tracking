@@ -1,0 +1,17 @@
+"","X","CitationKey","Author","Gender","W","A","GendCat","Gender_check","Gender_posthoc","GendCat_posthoc","SelfCite_posthoc"
+"1",0,"al_heartbrain_2020","Esra,Al","female,97","0    0.114722
+Name: nh_white, dtype: float32",0.8852783,"","no","f",NA,"N"
+"2",1,"al_heartbrain_2020","Arno,Villringer","male,99","0    0.838583
+Name: nh_white, dtype: float32",0.16141747,"femalemale","no","m","fm","Y"
+"91",90,"al_cardiac_2023","Esra,Al","female,97","0    0.114722
+Name: nh_white, dtype: float32",0.8852783,"","no","f",NA,"N"
+"92",91,"al_cardiac_2023","Vadim,Nikulin","male,99","0    0.915539
+Name: nh_white, dtype: float32",0.084461175,"femalemale","no","m","fm","Y"
+"151",150,"kumral_attenuation_2022","Deniz,Kumral","male,62","0    0.475677
+Name: nh_white, dtype: float32",0.52432346,"","yes","f",NA,"N"
+"152",151,"kumral_attenuation_2022","Arno,Villringer","male,99","0    0.838583
+Name: nh_white, dtype: float32",0.16141747,"malemale","no","m","fm","Y"
+"185",184,"steinfath_validating_2025","Paul,Steinfath","male,99","0    0.97645
+Name: nh_white, dtype: float32",0.023549862,"","no","m",NA,"Y"
+"186",185,"steinfath_validating_2025","Arno,Villringer","male,99","0    0.838583
+Name: nh_white, dtype: float32",0.16141747,"malemale","no","m","mm","Y"
