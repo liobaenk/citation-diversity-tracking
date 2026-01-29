@@ -23,10 +23,10 @@ Citation-diversity-tracking output files are stored in 🟢 **output/**.
 
 [3]
 
-We conducted further analyses on the body of reviewed HER research (as outlined under section *Statement and gender composition within HER research and citation diversity* of the main text, as well as in *Supplementary Section E*). The analyses (code,results) can be tracked in the knitted .Rmd file 🟢 **enk_further_citationdiversitytracking.html**. The code was last updated on 28 Jan 2026 to add documentation.
+We conducted further analyses on the body of reviewed HER research (as outlined under section *Statement and gender composition within HER research and citation diversity* of the main text, as well as in *Supplementary Section E*). The analyses (code,results) can be tracked in the knitted .Rmd file 🟢 **enk_further_citationdiversitytracking.html**. The code was last updated on 29 Jan 2026 to add documentation.
 
 ---
 
-Last updated: 28 Jan 2026<br>
+Last updated: 29 Jan 2026<br>
 Author: Lioba Enk (enk@cbs.mpg.de)
 

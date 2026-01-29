@@ -1,7 +1,7 @@
 # citation-diversity-tracking
 **Post-processing and visualising output from <ins>cleanBib</ins> (https://github.com/dalejn/cleanBib), a toolbox that utilises https://gender-api.com.**
 
-### v2.0
+### v3.0
 
 ### Relevant functionalities
 
@@ -76,4 +76,4 @@ Steinfath, P. &ast;, Azanova, M. &ast;, Kapralov, N. &ast;, Loesche, T., Enk, L.
 
 ---
 
-&copy; Lioba Enk, last updated 10 August 2025
+&copy; Lioba Enk, last updated 29 Jan 2026

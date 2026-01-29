@@ -13,7 +13,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
   * authored by: **[Lioba Enk](https://www.cbs.mpg.de/person/enk/1770355), Spokesperson for the Diversity and Inclusion Committee (MPI CBS, Leipzig, Germany)^[https://www.cbs.mpg.de/diversity-inclusion-committee; diversity-list@cbs.mpg.de]**
-  * last updated: **28 Jan 2026 | v3.0**
+  * last updated: **29 Jan 2026 | v3.0**
 
 ---
 
@@ -394,7 +394,7 @@ paged_table(predictions[,c("X","CitationKey","Author","Gender","Gender_check", "
   * identifies references cited in the main text that are not part of the reviewed body
   * calculates the proportion of the reviewed body that is cited in the main text
   
-This is done to distinguish between (1) references from the reviewed literature and (2) additional sources cited in the review's main text.
+This is done to distinguish between (1) references from the reviewed literature and (2) additional references cited in the review's main text.
 
 ```{r}
 
@@ -430,6 +430,29 @@ if (review == 1) {
 
 ```
 
+(1) References from the reviewed literature (ReviewLit) that are cited in the main text:
+
+```{r, echo=FALSE, layout="l-body-outset"}
+
+if (exists("predictions_own_ReviewLit")) {
+  paged_table(predictions_own_ReviewLit[,c("X","CitationKey","Author","GendCat_posthoc")])
+} else {
+  cat("No file displayed, as review == 0.")
+}
+
+```
+
+(2) Additional references cited in the main text:
+
+```{r, echo=FALSE, layout="l-body-outset"}
+
+if (exists("predictions_own_new")) {
+  paged_table(predictions_own_new[,c("X","CitationKey","Author","GendCat_posthoc")])
+} else {
+  cat("No file displayed, as review == 0.")
+}
+
+```
 
 ---
 
