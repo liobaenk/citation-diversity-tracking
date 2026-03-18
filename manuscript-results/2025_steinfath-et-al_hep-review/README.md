@@ -1,7 +1,15 @@
-Steinfath, P. &ast;, Azanova, M. &ast;, Kapralov, N. &ast;, Loesche, T., Enk, L., Nikulin, V. ° & Villringer, A. °. Heartbeat-evoked responses in M/EEG: A systematic review of methods with suggestions for analysis and reporting. *bioRxiv*, 2025-08. https://doi.org/10.1101/2025.08.08.668923
+##### Publication
+
+Steinfath, P. &ast;, Azanova, M. &ast;, Kapralov, N. &ast;, Loesche, T., Enk, L., Nikulin, V. & Villringer, A. Heartbeat-evoked responses in M/EEG: A systematic review of methods with suggestions for analysis and reporting. *bioRxiv*, 2025-08. https://doi.org/10.1101/2025.08.08.668923
+
+##### Posters
+
+Enk, L., Steinfath, P. &ast;, Azanova, M. &ast;, Kapralov, N. &ast;, Loesche, T., Nikulin, V. & Villringer, A. (2026). *From systematic
+review to citation benchmark: Quantifying gender parity in the heart-beat evoked responses literature*. Poster at 13th MindBrainBody Symposium, Berlin (09–11 March). [Link to PDF](https://www.cbs.mpg.de/2435738/a40_enk.pdf)
+
+Steinfath, P. &ast;, Azanova, M. &ast;, Kapralov, N. &ast;, Loesche, T., Enk, L., Nikulin, V. & Villringer, A. (2026). *A systematic review of methods used in heartbeat evoked responses research*. Poster at 13th MindBrainBody Symposium, Berlin (09–11 March). [Link to PDF](https://www.cbs.mpg.de/2435504/a18_steinfath.pdf)
 
 &ast; shared first authorship
-° shared last authorship
 
 Analysis code: https://github.com/PaulSteinfath/systematic-hep-review<br />
 Shiny App: https://paulsteinfath.shinyapps.io/her-systematic-review/<br />
